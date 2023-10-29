@@ -1,0 +1,19 @@
+{
+  "name": "Hrothmar.com",
+  "version": "1.0.0",
+  "description": "Personal blog powered by Eleventy",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx eleventy",
+    "serve": "npx eleventy --serve",
+    "debug": "DEBUG=* npx eleventy",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "moment": "^2.29.4"
+  }
+}
