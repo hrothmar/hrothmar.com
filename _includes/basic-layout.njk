@@ -5,24 +5,58 @@ title: Hrothmar.com
 <!DOCTYPE html> 
 <html lang="en"> 
 <head> 
-  <meta charset="utf-8"> 
-  <meta name="viewport" content="width=device-width, initial-scale=1" /> 
-  <title>Hrothmar.com | About</title>
-</head> 
+	<meta charset="utf-8"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+	<title>Hrothmar.com | About</title>
+</head>
+
 <body> 
-  <header>
-    <ul>
-      <li><a href="/">Home</a></li>
-      <li><a href="/about">About</a></li>
-    </ul>
-    <hr>
-  </header> 
-  <main> 
-    {{ content | safe }}
-  </main> 
-  <footer>
-    <hr>
-    <p>Site Footer</p>
-  </footer> 
+	<header id="site-header" role="banner">
+		<div id="site-info">
+			<a href="/" id="logo" title="Hrothmar" rel="home">Hrothmar.com</a>
+		</div>
+		<nav id="site-menu" class="menu-container">
+			<ul id="main-menu">
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/blog">Blog</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main class="container"> 
+		{{ content | safe }}
+	</main>
+
+	<footer id="site-footer" class="container">
+		<div class="content">
+			<div class="footer-column">
+				<p class="footer-title">Explore</p>
+				<ul>
+					<li><a href="/blog">Blog</a></li>
+					<li><a href="/guides">Guides</a></li>
+				</ul>
+			</div>
+			<div class="footer-column">
+				<p class="footer-title">Connect</p>
+				<ul>
+					<li><a href="https://www.youtube.com/@hrothmar">Youtube</a></li>
+					<li><a href="https://www.instagram.com/Hrothmar_tv/">Instagram</a></li>
+					<li><a href="https://bsky.app/profile/hrothmar.bsky.social">Bluesky</a></li>
+					<li><a href="https://twitter.com/Hrothmar_tv">Twitter</a></li>
+				</ul>
+			</div>
+			<div class="footer-column enjoy">
+				<p class="footer-title">Enjoy</p>
+				<p>
+					<a href="https://www.twitch.tv/hrothmar">twitch.tv/hrothmar</a>
+					<br>
+					On streaming hiatus for now
+				</p>
+			</div>
+			<div class="footer-column">
+				<p id="copyright">&copy;2023 Hrothmar</p>
+			</div>
+		</div>
+	</footer> 
 </body> 
 </html>
