@@ -1,9 +1,9 @@
 ---
-layout: basic-layout.html
+layout: basic-layout.njk
 ---
 
 <article>
   <h1>{{ title }}</h1> 
   <time datetime="{{ date | dateIso }}">{{ date | dateReadable }}</time> 
-  {{ content }}
+  {{ content | safe }}
 </article>

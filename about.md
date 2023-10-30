@@ -1,5 +1,5 @@
 --- 
-layout: basic-layout.html
+layout: basic-layout.njk
 --- 
 
 # About Me
