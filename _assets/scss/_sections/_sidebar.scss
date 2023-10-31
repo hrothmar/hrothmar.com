@@ -1,0 +1,19 @@
+/*	-------------------------------------
+	:: Sidebar
+	---------------------------------- */
+	#sidebar {
+
+		.widget-area {
+			background: $blue;
+			padding: 40px 10px 20px;
+
+			ul, ol {
+				padding: 0 0 0 20px;
+			}
+		}
+
+		.widget-title, li, a, p {
+			color: white;
+		}
+
+	}

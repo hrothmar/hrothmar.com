@@ -1,0 +1,23 @@
+/*	-------------------------------------
+	:: Caldera Form Overrides
+	---------------------------------- */
+	// Contact Form
+	#CF5c12e9e0268e7_1-row-1 {
+		& > .col-sm-12.single {
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+			justify-content: space-between;
+		}
+	}
+		// Name and Email Wrappers
+		#fld_8768091_1-wrap,
+		#fld_6009157_1-wrap {
+			flex: 0 0 calc(50% - 20px);
+		}
+
+		// Message + Submit Wrappers
+		#fld_7683514_1-wrap,
+		#fld_7908577_1-wrap {
+			flex: 0 0 100%;
+		}

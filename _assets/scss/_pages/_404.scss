@@ -1,0 +1,10 @@
+/*	-------------------------------------
+	:: 404 Error Page
+	---------------------------------- */
+	.page-not-found {
+		justify-items: center;
+
+		& > * {
+			grid-column: span 4;
+		}
+	}

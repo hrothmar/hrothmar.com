@@ -1,0 +1,96 @@
+/*	-------------------------------------
+	:: Forms
+	---------------------------------- */
+	form {
+
+	}
+
+	label {
+		font-size: 18px;
+	}
+
+	/* Submit */
+	[type="submit"] {
+		appearance: none;
+		font-family: $button-font;
+		font-weight: 700;
+		font-size: 18px;
+		border: 1px solid $gray-light;
+		background: white;
+		border-radius: 4px;
+		padding: 7px 17px 8px;
+		transition:
+			background 0.15s ease,
+			border-color 0.15s ease,
+			color 0.15s ease;
+
+		&:focus {
+			cursor: pointer;
+		}
+
+		&:active,
+		&:hover {
+			cursor: pointer;
+			color: white;
+			border-color: transparent;
+			background: $orange;
+		}
+	}
+
+	.home-cta-link,
+	.home-variety-link {
+		font-family: $button-font;
+		text-decoration: none;
+		font-weight: 700;
+		font-size: 18px;
+		background: $orange;
+		color: white;
+		border-radius: 6px;
+		padding: 11px 24px 12px;
+		margin-bottom: 20px;
+		transition:
+			background 0.15s ease,
+			border-color 0.15s ease,
+			color 0.15s ease;
+
+		&:focus,
+		&:active,
+		&:hover {
+			cursor: pointer;
+			color: white;
+			background: $orange-dark;
+		}
+	}
+	.home-variety-link {
+		background: $blue;
+
+		&:active,
+		&:hover,
+		&:focus {
+			color: white;
+			background: lighten($blue, 10%);
+		}
+	}
+
+	[type="text"],
+	[type="email"],
+	textarea {
+		// appearance: none;
+		border: 2px solid $gray-light;
+		border-radius: 5px;
+		font-size: 18px;
+		line-height: 1.6;
+		width: 100%;
+		padding: 8px 10px;
+		margin-bottom: 10px;
+		font-family: $primary-font;
+	}
+
+	textarea {
+		padding: 14px;
+		font-size: 20px; // large bodies of copy look nicer with some extra love
+	}
+
+	.form-group {
+		margin-bottom: 14px;
+	}

@@ -1,0 +1,43 @@
+/*	-------------------------------------
+	:: Include Custom Fonts
+	---------------------------------- */
+	@font-face {
+		font-family: 'VulfSans';
+		font-weight: 400;
+		src:url('../fonts/vulf_sans/Vulf_Sans-Regular.woff2') format('woff2'),
+			url('../fonts/vulf_sans/Vulf_Sans-Regular.woff') format('woff'),
+			url('../fonts/vulf_sans/Vulf_Sans-Regular.ttf')  format('truetype');
+		font-display: swap;
+	}
+
+	@font-face {
+		font-family: 'VulfSans';
+		font-weight: 700;
+		src:url('../fonts/vulf_sans/Vulf_Sans-Bold.woff2') format('woff2'),
+			url('../fonts/vulf_sans/Vulf_Sans-Bold.woff') format('woff'),
+			url('../fonts/vulf_sans/Vulf_Sans-Bold.ttf')  format('truetype');
+		font-display: swap;
+	}
+
+	// Adding Volkorn as well
+	@font-face {
+		font-family: 'Vollkorn';
+		font-weight: 400;
+		src: url('../fonts/vollkorn/static/Vollkorn-Regular.ttf') format('truetype');
+		font-display: swap;
+	}
+
+	@font-face {
+		font-family: 'Vollkorn';
+		font-weight: 400;
+		font-style: italic;
+		src: url('../fonts/vollkorn/static/Vollkorn-Italic.ttf') format('truetype');
+		font-display: swap;
+	}
+
+	@font-face {
+		font-family: 'Vollkorn';
+		font-weight: 700;
+		src: url('../fonts/vollkorn/static/Vollkorn-Bold.ttf') format('truetype');
+		font-display: swap;
+	}

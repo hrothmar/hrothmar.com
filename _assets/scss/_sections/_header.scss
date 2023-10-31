@@ -1,0 +1,153 @@
+/*	-------------------------------------
+	:: Global Header
+	---------------------------------- */
+	#site-header {
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: row;
+		max-width: $max-width;
+		margin: 0 auto 20px;
+		justify-content: center;
+	}
+
+		#site-info {
+			display: flex;
+			flex: 0 0 100%;
+			padding: 10px 0 0;
+			margin-bottom: 10px;
+			justify-content: center;
+		}
+
+	#logo {
+		font-family: $secondary-font;
+		text-decoration: none;
+		color: $orange;
+		font-size: 24px;
+		font-weight: 700;
+		letter-spacing: 2px;
+		padding: 6px 10px; // increases click size for mobile
+		text-transform: uppercase;
+		border: 1px solid transparent;
+	}
+
+	#site-menu {
+		flex: 0 0 100%;
+	}
+
+	#main-menu {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+
+		li {
+			display: inline-flex;
+			margin: 0;
+			padding: 0 4px;
+
+			a {
+				font-family: $secondary-font;
+				text-decoration: none;
+				display: block;
+				font-size: 20px;
+				font-weight: 700;
+				color: $blue;
+				padding: 4px 10px 7px;
+				border-radius: 5px;
+				transition:
+					background 0.4s ease,
+					color 0.4s ease;
+			}
+
+			&:hover a {
+				background: $blue;
+				color: white;
+			}
+
+			// Fixes the color of the Stream icon
+			&#menu-item-8:hover a::after {
+				background-image: url('../images/external-link-white.svg');
+			}
+
+				// Active Pages
+				&.current-menu-item a,
+				// Guides Fix
+				body.post-type-archive-guides &.menu-item-66 a,
+				body.single-guides &.menu-item-66 a,
+				// Blog Fix
+				body.post-type-archive-blog &.menu-item-38 a,
+				body.single-blog &.menu-item-38 a {
+					background: $blue;
+					color: white;
+				}
+
+			// Custom settings
+			&#menu-item-8 a {
+				position: relative;
+				display: flex;
+				flex-direction: row;
+				align-items: center;
+
+				&::after {
+					content: "";
+					width: 14px;
+					height: 14px;
+					background-image: url(../images/external-link-blue.svg);
+					background-size: 100% 100%;
+					background-position: center center;
+					margin-left: 4px;
+				}
+			}
+		}
+	}
+
+	// Tablet+ Sizes
+	@include min-width(550px) {
+		#site-header {
+			flex-direction: row;
+			padding-top: 16px;
+			margin-bottom: 45px;
+			justify-content: space-between;
+
+			body.home & {
+				margin-bottom: 20px;
+			}
+		}
+
+		#site-info,
+		#site-menu {
+			border: none;
+		}
+
+		#site-info {
+			flex: 0 0 180px;
+			margin: 0 0 0 20px; // aligns logo to body content, it's weird.
+			padding: 0;
+		}
+			 // ensures buttons are vertically centered with logo
+			#site-menu {
+				display: flex;
+				flex: auto;
+				align-items: center;
+				justify-content: flex-end;
+			}
+
+			#main-menu {
+				justify-content: flex-end;
+				padding-right: 10px;
+			}
+
+		#logo {
+			// Add hover animations only to tablet+ to avoid
+			// the page scaling the logo per-refresh
+			transition: border-bottom 0.5s ease;
+			border-bottom: 2px solid transparent;
+
+			&:hover {
+				border-bottom-color: $orange;
+			}
+		}
+	}

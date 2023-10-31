@@ -1,0 +1,286 @@
+/*	-------------------------------------
+	:: General Typography
+	---------------------------------- */
+	// Header Tags
+	h1, h2, h3, h4, h5, h6 {
+		font-family: $secondary-font;
+		margin-top: 0;
+		margin-bottom: 6px;
+		line-height: 1.2;
+		word-break: break-word;
+		hyphens: auto;
+		font-weight: 400;
+		text-rendering: optimizeLegibility;
+		// text-transform: uppercase;
+
+		a {
+			color: inherit;
+			font: inherit;
+			letter-spacing: inherit;
+
+			&:hover {
+				// color: $blue;
+			}
+		}
+
+		// Handle mobile typography appropriately
+		@include max-width(900px) {
+			word-break: break-word;
+			hyphens: auto;
+		}
+	}
+
+	h1 {
+		font-size: 28px;
+		font-weight: 700;
+
+		&.section-headline {
+			color: $orange;
+			margin-bottom: 30px;
+		}
+	}
+
+	h2 {
+		font-size: 26px;
+
+		&.section-headline {
+			color: $orange;
+		}
+	}
+
+	h3 {
+		font-size: 24px;
+
+		&.section-headline {
+			margin-bottom: 20px;
+		}
+	}
+
+	h4 {
+		font-family: $primary-font;
+		font-weight: 700;
+		font-size: 22px;
+
+		&.entry-title {
+			margin-bottom: 6px;
+		}
+
+		&.post-headline {
+			font-family: $secondary-font;
+		}
+	}
+
+	h6 {
+		font-size: 18px;
+	}
+
+	.section-headline {
+		grid-column: span 4;
+	}
+
+	.post-headline {
+		color: $gray-dark;
+		font-weight: 700;
+		a {
+			text-decoration: none;
+		}
+	}
+
+	.prev-next-post {
+		color: $orange;
+		font-weight: 700;
+	}
+
+
+	/* Paragraphs and Spans */
+	p, span, li {
+		font: normal 400 18px/1.6 $body-font;
+		color: $gray-dark;
+		margin-top: 0;
+		// font-feature-settings: "liga", "kern";
+	}
+
+	p {
+		margin-bottom: 30px;
+		word-break: break-word;
+		hyphens: auto;
+	}
+
+
+	/* Helpful Typography Defaults */
+	em, i {
+		font-style: italic;
+		line-height: inherit;
+	}
+
+	strong, b {
+		font-weight: bold;
+		line-height: inherit;
+	}
+
+	sub, sup {
+		font-size: 75%;
+		line-height: 0;
+		position: relative;
+		vertical-align: baseline;
+	}
+
+	sup { top: -.5em; }
+	sub { bottom: -.25em; }
+
+
+	/* Links */
+	a {
+		position: relative;
+		color: $blue;
+		text-decoration-color: $orange;
+		line-height: inherit;
+		transition: color 100ms ease-in-out 0ms;
+
+		//&:focus  {
+		//	color: $blue;
+		//}
+
+		& > span {
+			color: inherit;
+			font: inherit;
+			text-decoration: inherit;
+			line-height: inherit;
+		}
+
+		img { border: none; }
+	}
+
+
+	/* Images */
+	img {
+		vertical-align: top;
+		max-width: 100%;
+		// width: 100%;
+		height: auto;
+	}
+
+	svg:not(:root) { overflow: hidden; }
+
+
+	/* Unsorted/Sorted Lists */
+	ul, ol {
+		margin: 0 0 30px 0;
+		padding: 0 0 0 30px;
+		font-family: inherit;
+
+		/* Nested list handling */
+		ul, ol {
+			margin-top: 4px;
+			margin-bottom: 0;
+		}
+
+		&.no-bullets {
+			list-style: none;
+		}
+
+		li {
+			margin-bottom: 10px;
+			line-height: 1.4;
+
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+
+		// Might not be needed any more after i reduced the margin bottom of Ps to 30 from 40 (reducing it by 10, thus remvoing the need for this margin top reduction potentially)
+		//p + & {
+		//	margin-top: -10px;
+		//}
+	}
+
+
+	/* Quotes */
+	blockquote {
+		margin: 0 0 30px 0;
+		padding: 10px 0 10px 30px;
+		border-left: 4px solid $orange;
+		transition: all 0.2s ease;
+
+		& > *:last-child {
+			margin-bottom: 0;
+		}
+	}
+		q {
+			quotes: '\201C' '\201D' '\2018' '\2019';
+		}
+
+
+	// Horizontal Rules
+	hr {
+		height: 2px;
+		width: 100%;
+		background: #e9e9e9;
+		border: none;
+		margin: 30px 0;
+	}
+
+	code {
+		background: #ededed;
+		padding: 2px 6px 4px;
+		border-radius: 4px;
+		font-size: 16px;
+	}
+
+
+
+/*	-------------------------------------
+	:: Post Typography
+	---------------------------------- */
+	article {
+		&:not(:last-of-type) {
+			margin-bottom: 30px;
+		}
+	}
+		.entry-content p:last-of-type {
+			margin-bottom: 0;
+		}
+
+	.page-overview {
+		& > header {
+			margin-bottom: 60px;
+		}
+
+		article {
+			margin-bottom: 60px;
+		}
+	}
+
+
+/*	-------------------------------------
+	:: Responsive Text Alterations
+	---------------------------------- */
+	@include min-width(768px) {
+		h1 {
+			font-size: 40px;
+		}
+
+		h2 {
+			font-size: 36px;
+
+			&.section-headline {
+				font-size: 46px;
+			}
+		}
+
+		h3 {
+			font-size: 30px;
+		}
+
+		h4 {
+			font-size: 26px;
+		}
+
+		h6 {
+			font-size: 22px;
+		}
+
+		p, span, li {
+			font-size: 20px;
+		}
+	}
