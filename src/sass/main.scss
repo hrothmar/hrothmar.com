@@ -6,7 +6,7 @@
 	@import "_base/_mixins.scss";
 	@import "_base/_base.scss";
 	// @import "_base/_helpers.scss";
-	@import "_base/_typography.scss";
+	@import "_base/_type.scss";
 
 
 /*	-------------------------------------
@@ -15,9 +15,9 @@
 	@import "_components/_buttons";
 	@import "_components/_forms";
 	@import "_components/_container";
-	@import "_components/_callouts";
+	@import "_components/_callout";
 	@import "_components/_pagination";
-	@import "_components/_comments";
+	@import "_components/_comments"; 
 
 
 /*	-------------------------------------
