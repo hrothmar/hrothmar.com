@@ -13,7 +13,7 @@
     "debug": "DEBUG=* npx eleventy",
     "test": "jest"
   },
-  "keywords": [], 
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
