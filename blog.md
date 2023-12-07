@@ -1,17 +1,16 @@
 ---
 layout: basic-layout.njk
 pagination:
-  data: collections.post
+  data: collections.blog
   size: 6
   reverse: true
-  alias: posts
+  alias: blog
 ---
 
 <h1 class="section-headline">Latest Blog Posts</h1>
 
 <div class="archive-grid">
-	{# Output {pagination.size} number of blog posts #}
-	{% for post in posts %}
+	{%- for post in collections.blog -%}
 	<div class="post-summary">
 		<p class="post-date">{{ post.date | dateReadable }}</p>
 		<div class="preview-image">
