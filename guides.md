@@ -1,0 +1,26 @@
+---
+layout: basic-layout.njk
+pagination:
+  data: collections.guide
+  size: 6
+  reverse: true
+  alias: guide
+---
+
+<h1 class="section-headline">Latest Guides</h1>
+
+<div class="archive-grid">
+	{%- for guide in collections.guide -%}
+	<div class="post-summary">
+		<p class="post-date">{{ guide.date | dateReadable }}</p>
+		<div class="preview-image">
+			<a href="{{ guide.url }}">
+				<img width="700" height="300" src="https://placehold.co/700x300/ededed/333333">
+			</a>
+		</div>
+		<p class="post-title"><a href="{{ guide.url }}">{{ guide.data.title }}</a></p>
+		<p class="post-excerpt">Excerpt will go here eventually.</p>
+		<a class="button" href="{{ guide.url }}">Read More</a>
+	</div>
+	{% endfor %}
+</div>

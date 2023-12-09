@@ -4,11 +4,12 @@
   "description": "Personal blog powered by Eleventy",
   "main": "index.js",
   "scripts": {
+	"prebuild": "rm -rf _site",
 	"watch:sass": "sass --watch src/sass:src/css",
 	"build:sass": "sass src/sass:src/css",
 	"watch:eleventy": "npx eleventy --serve",
 	"build:eleventy": "npx eleventy",
-	"start": "npm-run-all build:sass --parallel watch:*",
+	"start": "npm-run-all prebuild build:sass --parallel watch:*",
 	"build": "npm-run-all build:*",
     "debug": "DEBUG=* npx eleventy",
     "test": "jest"
