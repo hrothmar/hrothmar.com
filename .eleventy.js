@@ -18,4 +18,9 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter('dateReadable', date => {
 		return moment(date).utc().format('LL'); // E.g. May 31, 2019
 	});
+
+	// Create a custom, global "Collection" based on all files that contain `guide` as a tag in their frontmatter (this is great for calling the collection outside of the category)
+	eleventyConfig.addCollection("guideCollection", function (collectionApi) {
+  		return collectionApi.getFilteredByTags("guide");
+	});
 };

@@ -16,42 +16,19 @@ layout: basic-layout.njk
 		<div class="content">
 			<h2>Recent Guides</h2>
 				<div class="archive-grid">
-					<div class="post-summary">
-						<p class="post-date"> November 9th, 2022</p>
-						<div class="preview-image">
-							<a href="https://hrothmar.com/guides/10-0-pre-patch-dragon-world-boss-schedule/">
-								<img width="700" height="300" src="https://hrothmar.com/wp-content/uploads/2022/11/prepatch-dragon-rotation-700x300-2.jpg" class="attachment-full-size size-full-size" alt="A large blue dragon stands in front of a frosted ice environment." decoding="async" fetchpriority="high" srcset="https://hrothmar.com/wp-content/uploads/2022/11/prepatch-dragon-rotation-700x300-2.jpg 700w, https://hrothmar.com/wp-content/uploads/2022/11/prepatch-dragon-rotation-700x300-2-500x214.jpg 500w" sizes="(max-width: 700px) 100vw, 700px">
-							</a>
+					{% for guide in collections.guideCollection %}
+						<div class="post-summary">
+							<p class="post-date">{{ guide.data.dateReadable }}</p>
+							<div class="preview-image">
+								<a href="{{ guide.url }}">
+									<img width="700" height="300" src="https://placehold.co/700x300/ededed/333333" alt="{{ guide.data.imgName }}" decoding="async" fetchpriority="high">
+								</a>
+							</div>
+							<h4 class="post-headline"><a href="{{ guide.url }}">{{ guide.data.title }}</a></h4>
+							<p class="post-excerpt">Excerpt will go here eventually.</p>
+							<a class="button" href="{{ guide.url }}">Read More</a>
 						</div>
-						<h4 class="post-headline">
-							<a href="https://hrothmar.com/guides/10-0-pre-patch-dragon-world-boss-schedule/">10.0 Pre-Patch Dragon World Boss Schedule</a>
-						</h4>
-						<a class="button" href="https://hrothmar.com/guides/10-0-pre-patch-dragon-world-boss-schedule/">Read Full Guide</a>
-					</div>
-					<div class="post-summary">
-						<p class="post-date"> November 9th, 2022</p>
-						<div class="preview-image">
-							<a href="https://hrothmar.com/guides/10-0-pre-patch-dragon-world-boss-schedule/">
-								<img width="700" height="300" src="https://hrothmar.com/wp-content/uploads/2022/11/prepatch-dragon-rotation-700x300-2.jpg" class="attachment-full-size size-full-size" alt="A large blue dragon stands in front of a frosted ice environment." decoding="async" fetchpriority="high" srcset="https://hrothmar.com/wp-content/uploads/2022/11/prepatch-dragon-rotation-700x300-2.jpg 700w, https://hrothmar.com/wp-content/uploads/2022/11/prepatch-dragon-rotation-700x300-2-500x214.jpg 500w" sizes="(max-width: 700px) 100vw, 700px">
-							</a>
-						</div>
-						<h4 class="post-headline">
-							<a href="https://hrothmar.com/guides/10-0-pre-patch-dragon-world-boss-schedule/">10.0 Pre-Patch Dragon World Boss Schedule</a>
-						</h4>
-						<a class="button" href="https://hrothmar.com/guides/10-0-pre-patch-dragon-world-boss-schedule/">Read Full Guide</a>
-					</div>
-					<div class="post-summary">
-						<p class="post-date"> November 9th, 2022</p>
-						<div class="preview-image">
-							<a href="https://hrothmar.com/guides/10-0-pre-patch-dragon-world-boss-schedule/">
-								<img width="700" height="300" src="https://hrothmar.com/wp-content/uploads/2022/11/prepatch-dragon-rotation-700x300-2.jpg" class="attachment-full-size size-full-size" alt="A large blue dragon stands in front of a frosted ice environment." decoding="async" fetchpriority="high" srcset="https://hrothmar.com/wp-content/uploads/2022/11/prepatch-dragon-rotation-700x300-2.jpg 700w, https://hrothmar.com/wp-content/uploads/2022/11/prepatch-dragon-rotation-700x300-2-500x214.jpg 500w" sizes="(max-width: 700px) 100vw, 700px">
-							</a>
-						</div>
-						<h4 class="post-headline">
-							<a href="https://hrothmar.com/guides/10-0-pre-patch-dragon-world-boss-schedule/">10.0 Pre-Patch Dragon World Boss Schedule</a>
-						</h4>
-						<a class="button" href="https://hrothmar.com/guides/10-0-pre-patch-dragon-world-boss-schedule/">Read Full Guide</a>
-					</div>
+					{% endfor %}
 				</div>
 			</div>
 		</section>
