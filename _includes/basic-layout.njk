@@ -11,7 +11,7 @@ title: Hrothmar.com
 	<link rel="stylesheet" href="/bundle.css">
 </head>
 
-<body> 
+<body class="page-{% if page.fileSlug %}{{ page.fileSlug }}{% else %}home{% endif %}"> 
 	<header id="site-header" role="banner">
 		<div id="site-info">
 			<a href="/" id="logo" title="Hrothmar" rel="home">Hrothmar.com</a>
