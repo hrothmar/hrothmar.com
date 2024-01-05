@@ -16,7 +16,8 @@ layout: basic-layout.njk
 		<div class="content">
 			<h2>Recent Guides</h2>
 				<div class="archive-grid">
-				{% for guide in collections.latest_guides %}<div class="post-summary">
+					{% for guide in collections.latest_guides %}
+					<div class="post-summary">
 						<p class="post-date">{{ guide.data.dateReadable }}</p>
 						<div class="preview-image">
 							<a href="{{ guide.url }}">
@@ -26,7 +27,8 @@ layout: basic-layout.njk
 						<h4 class="post-headline"><a href="{{ guide.url }}">{{ guide.data.title }}</a></h4>
 						<p class="post-excerpt">Excerpt will go here eventually.</p>
 						<a class="button" href="{{ guide.url }}">Read More</a>
-					</div>{% endfor %}
+					</div>
+					{% endfor %}
 				</div>
 			</div>
 		</section>
