@@ -16,19 +16,17 @@ layout: basic-layout.njk
 		<div class="content">
 			<h2>Recent Guides</h2>
 				<div class="archive-grid">
-					{% for guide in collections.guideCollection %}
-						<div class="post-summary">
-							<p class="post-date">{{ guide.data.dateReadable }}</p>
-							<div class="preview-image">
-								<a href="{{ guide.url }}">
-									<img width="700" height="300" src="https://placehold.co/700x300/ededed/333333" alt="{{ guide.data.imgName }}" decoding="async" fetchpriority="high">
-								</a>
-							</div>
-							<h4 class="post-headline"><a href="{{ guide.url }}">{{ guide.data.title }}</a></h4>
-							<p class="post-excerpt">Excerpt will go here eventually.</p>
-							<a class="button" href="{{ guide.url }}">Read More</a>
+				{% for guide in collections.latest_guides %}<div class="post-summary">
+						<p class="post-date">{{ guide.data.dateReadable }}</p>
+						<div class="preview-image">
+							<a href="{{ guide.url }}">
+								<img width="700" height="300" src="https://placehold.co/700x300/ededed/333333" alt="{{ guide.data.imgName }}" decoding="async" fetchpriority="high">
+							</a>
 						</div>
-					{% endfor %}
+						<h4 class="post-headline"><a href="{{ guide.url }}">{{ guide.data.title }}</a></h4>
+						<p class="post-excerpt">Excerpt will go here eventually.</p>
+						<a class="button" href="{{ guide.url }}">Read More</a>
+					</div>{% endfor %}
 				</div>
 			</div>
 		</section>

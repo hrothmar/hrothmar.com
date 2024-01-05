@@ -20,7 +20,9 @@ module.exports = function (eleventyConfig) {
 	});
 
 	// Create a custom, global "Collection" based on all files that contain `guide` as a tag in their frontmatter (this is great for calling the collection outside of the category)
-	eleventyConfig.addCollection("guideCollection", function (collectionApi) {
-  		return collectionApi.getFilteredByTags("guide");
+	eleventyConfig.addCollection("latest_guides", function (collectionApi) {
+		return collectionApi.getFilteredByTag("guide").sort(function(a, b) {
+			return b.date - a.date;
+		}).slice(0,3);
 	});
 };
