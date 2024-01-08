@@ -1,5 +1,5 @@
 # hrothmar.com
-Personal blog powered by Eleventy
+Educational content and personal blog, powered by Eleventy.
 
 ## Getting Started
 - Clone the repository down

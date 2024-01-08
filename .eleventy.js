@@ -3,6 +3,9 @@ const moment = require('moment');
 moment.locale('en');
  
 module.exports = function (eleventyConfig) {
+	// Outputs current year when calling {% year %}
+	// used in footer for copyright
+	eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
 	// Copy `assets/` to `_site/assets`
 	eleventyConfig.addPassthroughCopy("assets/"); 	
