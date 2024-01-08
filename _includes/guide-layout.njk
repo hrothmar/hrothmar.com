@@ -5,19 +5,19 @@ layout: basic-layout.njk
 <div class="content">
 	<article class="post-grid">
 		
-		<!-- Guide Category -->
+		{# Guide categories (minus "guide") #}
 		<div class="category-list">
 			<div class="category-item">
 				<a class="button" href="https://hrothmar.com/categories/world-of-warcraft/">World of Warcraft</a>
 			</div>
 		</div>
 		
-		<!-- Publish Date (TODO: turn this into a time element)-->
+		{# Publish Date (TODO: convert to `time` element) #}
 		<p class="post-date">
 			Published: {{ date | dateReadable }}
 		</p>
 
-		<!-- Hero image -->
+		{# Hero Image #}
 		<div class="hero-image">
 			<img
 				width="1200" 
@@ -30,10 +30,10 @@ layout: basic-layout.njk
 			>
 		</div>
 
-		<!-- Guide Title -->
+		{# Guide title #}
 		<h1 class="entry-title">{{ title }}</h1>
 
-		<!-- Guide Content -->
+		{# Guide content, pulled from `.md` file #}
 		{{ content | safe }}
 	</article>
 
