@@ -7,6 +7,17 @@ module.exports = function (eleventyConfig) {
 	// used in footer for copyright
 	eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
+	// Markdown configs:
+	const markdownIt = require("markdown-it");
+	const markdownItNamedHeadings = require("markdown-it-named-headings");
+	const markdownOptions = {
+		html: true,
+		breaks: true,
+		linkify: true
+	};
+	const markdownRenderer = markdownIt(markdownOptions).use(markdownItNamedHeadings);
+	eleventyConfig.setLibrary("md", markdownRenderer);
+
 	// Copy `assets/` to `_site/assets`
 	eleventyConfig.addPassthroughCopy("assets/"); 	
 
