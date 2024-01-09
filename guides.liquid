@@ -5,14 +5,19 @@ pagination:
   data: collections.guide
   size: 6
   reverse: true
-  alias: guide
+  alias: guides
 ---
+
+{% comment %}
+	TODO: 
+	Redesign this page to be more of a global collection arhive page via this blog post (works for both Guides and Blog in one file: https://www.11ty.dev/docs/quicktips/tag-pages/)
+{% endcomment %}
 
 
 <h1 class="section-headline">Latest Guides</h1>
 
 <div class="archive-grid">
-	{%- for guide in collections.guide -%}
+	{%- for guide in guides -%}
 	<div class="post-summary">
 		<p class="post-date">{{ guide.date | dateReadable }}</p>
 		<div class="preview-image">
@@ -20,9 +25,19 @@ pagination:
 				<img width="700" height="300" src="https://placehold.co/700x300/ededed/333333">
 			</a>
 		</div>
-		<p class="post-title"><a href="{{ guide.url }}">{{ guide.data.title }}</a></p>
+		<h4 class="post-headline"><a href="{{ guide.url }}">{{ guide.data.title }}</a></h4>
 		<p class="post-excerpt">Excerpt will go here eventually.</p>
 		<a class="button" href="{{ guide.url }}">Read More</a>
 	</div>
-	{% endfor %}
+	{% endfor %}	
+</div>
+
+<div class="pagination">
+	<h3 class="section-headline">More Guides</h3>
+	{% if pagination.href.previous %}
+		<a class="page-numbers" href="{{pagination.href.previous}}">Previous Page</a>
+	{% endif %}
+	{% if pagination.href.next %}
+		<a class="page-numbers" href="{{pagination.href.next}}">Next Page</a>
+	{% endif %}
 </div>
