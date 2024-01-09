@@ -2,87 +2,86 @@
 layout: basic-layout.njk
 ---
 
-<div class="content">
-	<article class="post-grid"> 
-		
-		{# Guide categories (minus "guide") #}
-		<div class="category-list">
-			<div class="category-item">
-				<a class="button" href="https://hrothmar.com/categories/world-of-warcraft/">World of Warcraft</a>
-			</div>
+
+<article class="post-grid"> 
+	
+	{# Guide categories (minus "guide") #}
+	<div class="category-list">
+		<div class="category-item">
+			<a class="button" href="https://hrothmar.com/categories/world-of-warcraft/">World of Warcraft</a>
 		</div>
-		
-		{# Publish Date (TODO: convert to `time` element) #}
-		<p class="post-date">
-			Published: {{ date | dateReadable }}
-		</p>
+	</div>
+	
+	{# Publish Date (TODO: convert to `time` element) #}
+	<p class="post-date">
+		Published: {{ date | dateReadable }}
+	</p>
 
-		{# Hero Image #}
-		<div class="hero-image">
-			<img
-				width="1200" 
-				height="430"
-				src="https://placehold.co/1200x430/ededed/333333"
-				class="size-full"
-				alt=""
-				decoding="async"
-				fetchpriority="high"
-			>
+	{# Hero Image #}
+	<div class="hero-image">
+		<img
+			width="1200" 
+			height="430"
+			src="https://placehold.co/1200x430/ededed/333333"
+			class="size-full"
+			alt=""
+			decoding="async"
+			fetchpriority="high"
+		>
+	</div>
+
+	{# Guide title #}
+	<h1 class="entry-title">{{ title }}</h1>
+
+	{# Guide content, pulled from `.md` file #}
+	{{ content | safe }}
+</article>
+
+{# Previous/Next Posts #}
+{% set prevGuide = collections.guide | getPreviousCollectionItem %}
+{% set nextGuide = collections.guide | getNextCollectionItem %}
+
+<section class="single-footer">
+	<h3 class="section-title">Additional Guides</h3>
+	{% if nextGuide %}
+		<div class="next-post">
+			<a href="{{ nextGuide.url }}">
+				<h6 class="prev-next-post">Next Post:</h6>
+				<div class="preview-image">
+					<img
+						width="700"
+						height="300"
+						src="https://placehold.co/700x300/ededed/333333"
+						class="size-full"
+						alt=""
+						decoding="async"
+						loading="lazy"
+					>
+				</div>
+				<h4 class="post-headline">{{ nextGuide.data.title }}</h4>
+			</a>
+			<p>{{ nextGuide.data.excerpt }}</p>
 		</div>
+	{% endif %}
 
-		{# Guide title #}
-		<h1 class="entry-title">{{ title }}</h1>
-
-		{# Guide content, pulled from `.md` file #}
-		{{ content | safe }}
-	</article>
-
-	{# Previous/Next Posts #}
-	{% set prevGuide = collections.guide | getPreviousCollectionItem %}
-	{% set nextGuide = collections.guide | getNextCollectionItem %}
-
-	<section class="single-footer">
-		<h3 class="section-title">Additional Guides</h3>
-		{% if nextGuide %}
-			<div class="next-post">
-				<a href="{{ nextGuide.url }}">
-					<h6 class="prev-next-post">Next Post:</h6>
-					<div class="preview-image">
-						<img
-							width="700"
-							height="300"
-							src="https://placehold.co/700x300/ededed/333333"
-							class="size-full"
-							alt=""
-							decoding="async"
-							loading="lazy"
-						>
-					</div>
-					<h4 class="post-headline">{{ nextGuide.data.title }}</h4>
-				</a>
-				<p>{{ nextGuide.data.excerpt }}</p>
-			</div>
-		{% endif %}
-
-		{% if prevGuide %}
-			<div class="prev-post">
-				<a href="{{ prevGuide.url }}">
-					<h6 class="prev-next-post">Previous Post:</h6>
-					<div class="preview-image">
-						<img
-							width="700"
-							height="300"
-							src="https://placehold.co/700x300/ededed/333333"
-							class="size-full"
-							alt=""
-							decoding="async"
-							loading="lazy"
-						>
-					</div>
-					<h4 class="post-headline">{{ prevGuide.data.title }}</h4>
-				</a>
-				<p>{{ prevGuide.data.excerpt }}</p>
-			</div>
-		{% endif %}
-	</section>
-</div>
+	{% if prevGuide %}
+		<div class="prev-post">
+			<a href="{{ prevGuide.url }}">
+				<h6 class="prev-next-post">Previous Post:</h6>
+				<div class="preview-image">
+					<img
+						width="700"
+						height="300"
+						src="https://placehold.co/700x300/ededed/333333"
+						class="size-full"
+						alt=""
+						decoding="async"
+						loading="lazy"
+					>
+				</div>
+				<h4 class="post-headline">{{ prevGuide.data.title }}</h4>
+			</a>
+			<p>{{ prevGuide.data.excerpt }}</p>
+		</div>
+	{% endif %}
+</section>

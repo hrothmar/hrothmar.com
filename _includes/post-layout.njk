@@ -2,74 +2,73 @@
 layout: basic-layout.njk
 ---
 
-<div class="content">
-	<article class="post-grid">
-		
-		<!-- Guide Category -->
-		<div class="category-list">
-			<div class="category-item">
-				<a class="button" href="https://hrothmar.com/categories/world-of-warcraft/">World of Warcraft</a>
+
+<article class="post-grid">
+	
+	<!-- Guide Category -->
+	<div class="category-list">
+		<div class="category-item">
+			<a class="button" href="https://hrothmar.com/categories/world-of-warcraft/">World of Warcraft</a>
+		</div>
+	</div>
+	
+	<!-- Publish Date (TODO: turn this into a time element)-->
+	<p class="post-date">
+		Published: {{ date | dateReadable }}
+	</p>
+
+	<!-- Hero image -->
+	<div class="hero-image">
+		<img width="1200" height="430"
+			src="https://placehold.co/1200x430/ededed/333333"
+			class="attachment-full size-full"
+			alt=""
+			decoding="async"
+			fetchpriority="high"
+		>
+	</div>
+
+	<!-- Guide Title -->
+	<h1 class="entry-title">{{ title }}</h1>
+
+	<!-- Guide Content -->
+	{{ content | safe }}
+</article>
+
+<!-- Previous and Next Guides -->
+<section class="single-footer">
+	<h3 class="section-title">Additional Guides</h3>
+	<div class="next-post">
+		<a href="#NextGuide">
+			<h6 class="prev-next-post">Next Post:</h6>
+			<div class="preview-image">
+				<img width="700" height="300"
+					src="https://placehold.co/700x300/ededed/333333"
+					class="attachment-full size-full"
+					alt=""
+					decoding="async"
+					loading="lazy"
+				>
 			</div>
-		</div>
-		
-		<!-- Publish Date (TODO: turn this into a time element)-->
-		<p class="post-date">
-			Published: {{ date | dateReadable }}
-		</p>
+			<h4 class="post-headline">Next Post Headline</h4>
+		</a>
+		<p>Next Post Excerpt</p>
+	</div>
 
-		<!-- Hero image -->
-		<div class="hero-image">
-			<img width="1200" height="430"
-				src="https://placehold.co/1200x430/ededed/333333"
-				class="attachment-full size-full"
-				alt=""
-				decoding="async"
-				fetchpriority="high"
-			>
-		</div>
-
-		<!-- Guide Title -->
-		<h1 class="entry-title">{{ title }}</h1>
-
-		<!-- Guide Content -->
-		{{ content | safe }}
-	</article>
-
-	<!-- Previous and Next Guides -->
-	<section class="single-footer">
-		<h3 class="section-title">Additional Guides</h3>
-		<div class="next-post">
-			<a href="#NextGuide">
-				<h6 class="prev-next-post">Next Post:</h6>
-				<div class="preview-image">
-					<img width="700" height="300"
-						src="https://placehold.co/700x300/ededed/333333"
-						class="attachment-full size-full"
-						alt=""
-						decoding="async"
-						loading="lazy"
-					>
-				</div>
-				<h4 class="post-headline">Next Post Headline</h4>
-			</a>
-			<p>Next Post Excerpt</p>
-		</div>
-
-		<div class="prev-post">
-			<a href="#PreviousGuide">
-				<h6 class="prev-next-post">Previous Post:</h6>
-				<div class="preview-image">
-					<img width="700" height="300"
-						src="https://placehold.co/700x300/ededed/333333"
-						class="attachment-full size-full"
-						decoding="async"
-						alt=""
-						loading="lazy"
-					>
-				</div>
-				<h4 class="post-headline">Previous Post Headline</h4>
-			</a>
-			<p>Previous Post Excerpt</p>
-		</div>
-	</section>
-</div>
+	<div class="prev-post">
+		<a href="#PreviousGuide">
+			<h6 class="prev-next-post">Previous Post:</h6>
+			<div class="preview-image">
+				<img width="700" height="300"
+					src="https://placehold.co/700x300/ededed/333333"
+					class="attachment-full size-full"
+					decoding="async"
+					alt=""
+					loading="lazy"
+				>
+			</div>
+			<h4 class="post-headline">Previous Post Headline</h4>
+		</a>
+		<p>Previous Post Excerpt</p>
+	</div>
+</section>
