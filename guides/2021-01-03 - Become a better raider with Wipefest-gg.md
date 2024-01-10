@@ -9,10 +9,10 @@ tags:
 
 Raw DPS capabilities can only carry you so far into raid tiers, at a certain point mechanical improvements become the determining factor of success. Traditionally, pouring over visually-dense raid logs would be the main source of information, but luckily that is no longer the case. Instead, new tools have been created to help make raid logs more digestible– and that is where <a href="https://www.wipefest.gg/" target="_blank" rel="noopener">Wipefest.gg</a> comes into play. Wipefest is a tool which helps to analyze raid logs. Wipefest creates concise reports for both groups and individuals which help to determine areas for improvement– all through a clean, shareable interface.
 
-<h2>Getting started with Wipefest</h2>
+## Getting started with Wipefest
 To begin leveraging Wipefest, all you need is a link to the logs that you want to have analyzed, which you then paste into the <a href="https://www.wipefest.gg/" target="_blank" rel="noopener">Wipefest homepage</a> for auditing. From here, you can then select any of the individual boss kills to find more detailed information on performance of that fight.
 
-<h4>Find your raid logs:</h4>
+#### Find your raid logs:
 In order to leverage the Wipefest tool, you'll first need to have a set of raid logs from your raid night. For the sake of this guide, you can use my team's raid logs from our first Normal Denathrius kill earlier this week, which can be found here: <a href="https://www.warcraftlogs.com/reports/YpLwXdrNPVaGhFqm">https://www.warcraftlogs.com/reports/YpLwXdrNPVaGhFqm</a>
 
 [comment] note
@@ -20,12 +20,12 @@ In order to leverage the Wipefest tool, you'll first need to have a set of raid 
 
 [comment] note
 
-<h4>Run the logs through Wipefest</h4>
+#### Run the logs through Wipefest
 On the homepage of <a href="https://www.wipefest.gg/" target="_blank" rel="noopener">Wipefest.gg</a>, you'll paste the WarcraftLogs link into the search bar at the top for processing. After submitting, you'll be presented with a screen which looks like the following screenshot. By default, only the 'kill' pulls for those fights can be audited. If you want to view non-kill attempts and their data, you'll need a premium subscription to the service, which is currently only $3/mo– something which progression guilds or guild leaders can pick up, but it's not needed for individual raiders.
 
 <img class="alignnone size-full wp-image-912" src="https://hrothmar.com/wp-content/uploads/2021/01/wipefest_overview-1200x300-1.jpg" alt="A screenshot from Wipefest showing two bosses, Shriekwing and Huntsman, as well as their number of attempts and kills." width="1200" height="300" />
 
-<h3>Identify areas for improvement</h3>
+### Identify areas for improvement
 To audit a single fight, select an individual kill log, such as the green-colored log from Shriekwing (labeled "<em>(6:44) 17:49</em>"). This will take you to an overview page, showing how the raid (as a whole) performed for the fight. The default view upon clicking into an individual fight will show you the "Mechanics" tab, which will encompass the 'important' mechanics for the fight, grading your team against the logs of others and giving you a score based on the team's performance. The following is a look at the default "Mechanics" tab from our Heroic Shriekwing kill:
 
 [comment] note
@@ -38,14 +38,16 @@ Each of these sections can be expanded into a drop-down window in order to view 
 
 <img class="alignnone size-full wp-image-914" src="https://hrothmar.com/wp-content/uploads/2021/01/wipefest_audit-1200x300-1.jpg" alt="A breakdown of WipefestGG's report of Heroic Shriekwing, showing who got hit by Echoing Shriek and when it ocurred" width="1200" height="300" />
 
-<h2>Audit individual performance</h2>
+## Audit individual performance
 If you're solely interested in individual improvements, you can also choose the "Players" tab at the top of the report. This will give you a character selection option to view a single member's performance within that fight. Each player will be given a score out of 100, which can be used to grade the general performance of each team member at a glance. These scores are calculated using a specific formula which Wipefest explains as the following:
-<blockquote><em>A player's score represents how many points they earned with respect to the maximum number of points possible to collect for the encounter. Scores are weighted based on the relative importance of each mechanic. Scores are multiplied by the percentage of the fight that a player was alive for until their first death. For example, if a player dies halfway through the fight, then their score is halved.</em></blockquote>
+
+> *A player's score represents how many points they earned with respect to the maximum number of points possible to collect for the encounter. Scores are weighted based on the relative importance of each mechanic. Scores are multiplied by the percentage of the fight that a player was alive for until their first death. For example, if a player dies halfway through the fight, then their score is halved.*
+
 In the following screenshot, you can view my individual performance breakdown, in which I scored an "85", with the main failure being that I got hit by an Echoing Shriek and I was hit by Descent once. These are minor tweaks to make, but can ensure a smoother fight in the future and prevent headaches for your healers.
 
 <img class="alignnone size-full wp-image-915" src="https://hrothmar.com/wp-content/uploads/2021/01/wipefest_individual_performance-1200x300-1.jpg" alt="WipefestGG screenshot of individual player scores, showing the full raid team, each with an individual performance report." width="1200" height="300" />
 
-<h3>Auditing is not a one-time process</h3>
+### Auditing is not a one-time process
 The true power of Wipefest comes from repeated viewing of your own progress over time. It's important to revisit the Wipefest audits often and regularly in order to ensure that all mechanics are being handled properly. It's easy to accidentally neglect previously performed mechanics when trying to focus on new ones, so be sure to check and see that all mechanics are being handled appropriately on all pulls. If at any time you feel like you're having difficulties on specific fights, this tool can be a treasure trove of information to help get you started on what might be causing issues.
 
 [comment] note
