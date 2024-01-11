@@ -12,7 +12,7 @@ Yes, I know, this isn’t what Stardew Valley is about, but after 200 hours it�
 
 > *Update from Hrothmar:* I've moved credits/insights/disclaimers to the bottom of this post, to get information into your hands faster, If you're interested in learning more about how I found these numbers, you can find them at the end of the article. Without further delay, let’s jump right into crop profits.
 
----
+<hr />
 
 ## Spring
 #### #1 Strawberries
@@ -76,7 +76,7 @@ Fall is similar to Summer in that, the "top 5" most profitable crops are pretty 
 #### #5 Artichoke
 **170 profit per crop.** An overall weaker plant, it doesn't have any strong arguments for planting it. There are stronger choices in the Fall for Raw Crop, Preserve Jars, and Kegs. It is not a requirement for any Bundle. No villager "loves" Artichoke. Its sole benefit is that it is an ingredient in some cooking and relatively cheap.
 
----
+<hr />
 
 ## Multi-seasonal crops
 There are no crops which grow in Winter, so I also wanted to highlight crops can grow throughout multiple seasons straight.
@@ -96,7 +96,7 @@ There are no crops which grow in Winter, so I also wanted to highlight crops can
 #### Sunflower
 **(-100) to 100 gold profit per crop.** Sunflowers are a surefire way to throw your money in the trash. They have no effect on the type of Honey produced by Bee Hives and have a chance to drop an additional 0-3 Sunflower Seeds upon harvest (an average of 1.5 seeds per harvest). If you take the 1.5 seed average and calculate it into a reduced cost towards future crops, it ends up averaging out to be about zero gold, eventually making a small profit towards the end of the second season if you get lucky with seed drops. The seeds can be processed into Oil, but overall the Sunflower is not worth it as a cash crop.
 
----
+<hr />
 
 ## Fertilizer Saving Tip Additional Tip:
 If you have any crops, not viable in Fall, whose final harvest will occur on or before the 25th of Summer, consider delaying the harvest until the 25th. This way, the land will not fallow before then and any fertilizer will remain. On the 25th then, harvest and replant in Wheat. This multi-season crop will survive to be harvested (by scythe) on the first of Fall, and will additionally save you your fertilizer and any work of restoring the land for planting that might otherwise have been created by the transition of the seasons.
@@ -126,7 +126,6 @@ To illustrate the difference between these two approaches, let’s talk about th
 - Profit per day: 5.75
 - End of season cash: 1,104 (23 Profit * 8 crops * 6 harvests)
 
-
 It seems like a pretty cut-and-dry choice to purchase as many Cauliflower as possible because has a large profit margin over the Parsnip, but *this isn't quite how most farms will operate*. The above model shows off why it's valuable to consider high Cost Per Seed values into amount when you have a limited amount of tillable soil at your disposal such as inside the Greenhouse or late-game farms.**However, this model becomes unprofitable if we're able to expand the farm during the season**, much like every Year 1 farm which can increase its amount of tilled soil as the season progresses. For the next model we'll assume "Normal" quality crops and 80 gold to spend so we can see the side-by-side comparison of Investment vs Return out and because it creates a more realistic example. Let's walk through the same model, but this time with the ability to expand taken into account:
 
 #### Cauliflower:
@@ -134,7 +133,6 @@ It seems like a pretty cut-and-dry choice to purchase as many Cauliflower as pos
 - Day 12: Sell one for 175g, purchase and plant 2 more seeds, pocket the 15g remainder.
 - Day 24: Sell two for 350g.
 - **Final gold: 365g.**
-
 
 #### Parsnips:
 - Day 1: Purchase four Parsnip Seeds for 80g.
@@ -162,11 +160,11 @@ This is because despite Parsnips having half of the Gold per Seed value of Cauli
 - Profit: 87
 - Return on Investment = (87-20)/20 = 335%
 
----
+<hr />
 
 I want to give due credit to <a href="https://github.com/Thorinair">Thorinair</a>, who created a great interactive tool to allow you to audit different scenarios, input your relevant farming skills, and see what the best crop to plant is midway through a season. You can <a href="https://thorinair.github.io/Stardew-Profits/">check out the tool</a> for your own research, if you need any specific information. It covers a plethora of criteria such as crop refining (preserve/ferment), which seed vendors you have access to, whether to include cross-seasonal crops (such as Corn), and number of days to calculate (great for Greenhouse or mid-season planting).
 
---- 
+<hr />
 
 ### Quick overview about the data
 Since deep data dives are not everyone’s jam, **I’ve compiled the top 5(ish) crops on a season-by-season breakdown that will give you the highest profit margin over a single season**. Some other quick information about how this list was created:
