@@ -4,7 +4,7 @@ depreciated: true
 date: 2020-07-31
 excerpt: Getting started with Grounded can be a bit overwhelming and not all features are immediately apparent, so I've compiled a list of tips and tricks that helped me get started playing the game smoother.
 tags:
-- guide
+	- guide
 ---
 
 Getting started with Grounded can be a bit overwhelming and not all features are immediately apparent, so I've compiled a list of tips and tricks that helped me get started with a smoother experience. This guide might contain small spoilers (scoped to the existence of certain items), but I'll do my best to avoid any story-based spoilers to keep things fun and fresh for everyone!
