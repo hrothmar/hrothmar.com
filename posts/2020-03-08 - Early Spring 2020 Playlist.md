@@ -1,5 +1,5 @@
 ---
-title: Early Spring 2020 Music Playlist
+title: Early Spring 2020 Playlist
 date: 2020-03-08
 excerpt: Hunting for music is one of my top hobbies outside of video games and cooking, and here's what I was listening to before the first lockdowns.
 tags:
@@ -15,16 +15,14 @@ Most of my playlists end up falling into one of two categories: Mood or Time-Cap
 
 I wanted to share a few highlighted tracks from my current Spring 2020 playlist that have been buzzing around my head for the past few weeks. This season's playlist is primarily relaxing and airy feeling, which wasn't my initial goal, but it's how things ended up shaking out.
 
-Listen to this playlist over on <a href="https://open.spotify.com/playlist/3NHUU8tI7wey8hW1QZxPgD">Spotify</a> or over on <a href="https://youtu.be/4w508dBgO9w">Youtube</a>.
+Listen to this playlist over on <a href="https://open.spotify.com/playlist/3NHUU8tI7wey8hW1QZxPgD" target="_blank">Spotify</a> or over on <a href="https://youtu.be/4w508dBgO9w" target="_blank">Youtube</a>.
 
 Current track list:
-<ul>
- 	<li>Amtrac - <em>Accountable</em></li>
- 	<li>Space Invadas - <em>Welcome (feat. Natalie Slade)</em></li>
- 	<li>Popular Computer - <em>Euro Kiss (Outro)</em></li>
- 	<li>Ross From Friends - <em>Talk To Me You'll Understand</em></li>
- 	<li>Lou Hayter - <em>Cherry On Top</em></li>
- 	<li>KiNK - <em>Leko (Session Victim Remix)</em></li>
- 	<li>HNNY -<em> Most Really Pretty Girls Have Pretty Ugly Feet</em></li>
- 	<li>B77 - <em>Mo Sun</em></li>
-</ul>
+- Amtrac - <em>Accountable</em>
+- Space Invadas - <em>Welcome (feat. Natalie Slade)</em>
+- Popular Computer - <em>Euro Kiss (Outro)</em>
+- Ross From Friends - <em>Talk To Me You'll Understand</em>
+- Lou Hayter - <em>Cherry On Top</em>
+- KiNK - <em>Leko (Session Victim Remix)</em>
+- HNNY -<em> Most Really Pretty Girls Have Pretty Ugly Feet</em>
+- B77 - <em>Mo Sun</em>
