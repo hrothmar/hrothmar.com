@@ -91,7 +91,7 @@ There are no crops which grow in Winter, so I also wanted to highlight crops can
 **535 gold profit per crop.** Corn is the first multi-seasonal crop most players will encounter. If you plant it on Summer 1 and keep it watered through Fall 28 it is the most profitable multi-season crop you can purchase from Piere.
 
 #### Wheat
-**273 gold profit per plot.** Wheat is multi-seasonal, but since it grows in only 4 days and doesn't produce replantable seed (meaning you pay for seeds after each harvest), it feels less like a multi-seasonal crop and more like a crop that happens to be an option if you're low on funds and have some empty tilled space you need to fill at any point during 2/3rds of the harvestable year.
+**273 gold profit per plot.** Wheat is multi-seasonal, but since it grows in only 4 days and doesn't produce re-plantable seed (meaning you pay for seeds after each harvest), it feels less like a multi-seasonal crop and more like a crop that happens to be an option if you're low on funds and have some empty tilled space you need to fill at any point during 2/3rds of the harvestable year.
 
 #### Sunflower
 **(-100) to 100 gold profit per crop.** Sunflowers are a surefire way to throw your money in the trash. They have no effect on the type of Honey produced by Bee Hives and have a chance to drop an additional 0-3 Sunflower Seeds upon harvest (an average of 1.5 seeds per harvest). If you take the 1.5 seed average and calculate it into a reduced cost towards future crops, it ends up averaging out to be about zero gold, eventually making a small profit towards the end of the second season if you get lucky with seed drops. The seeds can be processed into Oil, but overall the Sunflower is not worth it as a cash crop.

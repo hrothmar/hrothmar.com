@@ -15,7 +15,7 @@ Roughly speaking, **you can expect to gain anywhere from 1,000-3,000 gold per da
 With only a few characters using their mission tables you can fuel all of your M+/Raid consumable needs!
 [comment] note
 
-<img class="alignnone size-full wp-image-1210" src="https://hrothmar.com/wp-content/uploads/2022/07/shadowlands_choose_your_covenant.jpg" alt="A small moth-like creature hovers in the air in front of two centaur guards. All of them stand atop a raised platform with a large mystical dreamcatcher behind them in a dark room. They are illuminated by a large, glowing crystal faceted into the wall behind them." width="1200" height="430" />
+<img class="size-full" src="https://hrothmar.com/wp-content/uploads/2022/07/shadowlands_choose_your_covenant.jpg" alt="A small moth-like creature hovers in the air in front of two centaur guards. All of them stand atop a raised platform with a large mystical dreamcatcher behind them in a dark room. They are illuminated by a large, glowing crystal faceted into the wall behind them." width="1200" height="430" />
 
 ## Before Unlocking the Mission Table:
 If you have not already unlocked the Mission Table, there are a few steps that can save months of work and get larger rewards earlier. The main goal is to acquire as many <a href="https://www.wowhead.com/item=186472/wisps-of-memory" target="_blank" rel="noopener">Wisps of Memory</a> items as possible. This item gives your followers a large amount of experience, which makes the mission table easier. The experience boost will bypass months of grinding and when done correctly will result in instant max-level followers.
@@ -38,7 +38,7 @@ To begin, your path will look slightly different depending on whether you are le
 1. Swap between the covenants and use a <a href="https://www.wowhead.com/item=188167/broker-mark-of-distinction" target="_blank" rel="noopener">Broker Mark of Distinction</a> if you are Renown 51 or below on any of them, repeating until every covenant is Renown 52 or above (read the above section for more info).
 2. Store any rewarded Wisps of Memory you receive for later.
 
-<img class="alignnone size-full wp-image-1208" src="https://hrothmar.com/wp-content/uploads/2022/07/Sanctum_Upgrades_Bastion.jpg" alt="A large blue angel figure stands in front of a wooden tent draped in cloths, set in a heavenly, bright setting made of stone and gold." width="1200" height="430" />
+<img class="size-full" src="https://hrothmar.com/wp-content/uploads/2022/07/Sanctum_Upgrades_Bastion.jpg" alt="A large blue angel figure stands in front of a wooden tent draped in cloths, set in a heavenly, bright setting made of stone and gold." width="1200" height="430" />
 
 ## Mission Table Unlocking and Soulbind Leveling
 Once you reach level 60, you will finally be able to get started with the mission table. You will first need to unlock the mission table itself, then begin accepting your soulbinds which will act as your followers to send out on missions along with generic troops. Due to some recent changes with how the mission table works, we can manipulate some game mechanics to skew these non-soulbind troops to have a very high starting level, which in turn means easier mission completion since our troops will be able to carry other low-level follower missions.
@@ -77,7 +77,7 @@ The most important part of the mission table sequence is to ensure that you sole
 	- Research Rank 3: Decrease mission duration by 33%
 		- This is good if you’re flipping your tables more than twice per day since you can begin sending out 3-4 sets of missions per day. This will consume anima at a faster rate but significantly increase your gold and resource rewards.
 
-<img class="alignnone size-full wp-image-1213" src="https://hrothmar.com/wp-content/uploads/2022/07/Shadowlands_mission_table_TLDR_Missons_addon.jpg" alt="A cropped view of the Missions Table interface, showing a list of available missions as well as their rewards. On the right, a new panel appears from the TLDR MIssions addon which shows additional options for controlling how and when to send out missions." width="1200" height="430" />
+<img class="size-full" src="https://hrothmar.com/wp-content/uploads/2022/07/Shadowlands_mission_table_TLDR_Missons_addon.jpg" alt="A cropped view of the Missions Table interface, showing a list of available missions as well as their rewards. On the right, a new panel appears from the TLDR MIssions addon which shows additional options for controlling how and when to send out missions." width="1200" height="430" />
 
 ## TLDR Missions Add-on
 The best mission table add-on on the market currently is called <a href="https://www.curseforge.com/wow/addons/tldr-missions" target="_blank" rel="noopener">TLDR Missions</a>. It replaces all add-ons you may have had previously (VenturePlan, Covenant Mission Helper, etc.) and acts as a stand-alone tool that handles everything you need to get started. This tool can be configured using a priority system, allowing you to tweak exactly which rewards you want and ignore others, which both saves on anima and gets you preferred rewards faster. Once fully configured, you will be able to send out all of your followers with a single click, then complete their missions a few hours later with a second click.
@@ -88,7 +88,7 @@ Which missions you choose to take are entirely up to you, but I have provided th
 You can also earn thousands of battle pet tokens without ever doing a single battle!
 [comment] note
 
-<img class="alignnone size-full wp-image-1216" src="https://hrothmar.com/wp-content/uploads/2022/07/TLDR_Missons_addon_settings.jpg" alt="Two images sit side-by-side in front of a darkened background. The left image shows the main settings of the TLDRMissons addon, while the right shows a detailed list of subcategories which illustrate the common and uncommon options being unchecked." width="1200" height="430" />
+<img class="size-full" src="https://hrothmar.com/wp-content/uploads/2022/07/TLDR_Missons_addon_settings.jpg" alt="Two images sit side-by-side in front of a darkened background. The left image shows the main settings of the TLDRMissons addon, while the right shows a detailed list of subcategories which illustrate the common and uncommon options being unchecked." width="1200" height="430" />
 
 ### TLDR Mission Configuration
 

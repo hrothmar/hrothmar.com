@@ -8,7 +8,7 @@ tags:
   - World of Warcraft
 ---
 
-The release of Shadowlands 9.1 marks the end of one of the longest running major patches in the history of the game. That said*, do not expect there to be a large amount of content in this patch*, since this is a mid-expansion patch and will be largely focused on rehashing existing systems while implementing a few new ones. The next patch contains a new raid, a new stand-alone dungeon, and a reimagining of Torghast, along with some quality of life improvements throughout. There are a handful of major and minor changes coming, so we’ll be covering most of the news at a birds-eye view, while diving deep on a few of the gear-focused topics.
+The release of Shadowlands 9.1 marks the end of one of the longest running major patches in the history of the game. That said*, do not expect there to be a large amount of content in this patch*, since this is a mid-expansion patch and will be largely focused on rehashing existing systems while implementing a few new ones. The next patch contains a new raid, a new stand-alone dungeon, and a re-imagining of Torghast, along with some quality of life improvements throughout. There are a handful of major and minor changes coming, so we’ll be covering most of the news at a birds-eye view, while diving deep on a few of the gear-focused topics.
 
 ## Important gearing changes
 I wanted to spend the most time focusing on the changes to how gearing will work in 9.1, specifically regarding your Legendary item, which *you might need to reforge into a different slot* if you plan on raiding.
@@ -29,7 +29,7 @@ If you socket three **Shards** of the same category (*Blood, Frost,* or *Unholy*
 
 You can use the following graph to see if you need to remake your legendary. If the grid is green, it means it’s safe to create a legendary in that slot. If the grid is yellow, you can still put your legendary there, however there is a high ilvl slot from raid in that slot to be aware of. Red slots are a hard “do not craft”, since it would cost you a Domination Socket slot– and you want as many of those as possible.
 
-<img class="alignnone size-full wp-image-1114" src="https://hrothmar.com/wp-content/uploads/2021/06/Domination-Gear-Grid.jpg" alt="A visual chart showing the 4 gear types on one axis, and each type of gear slot on the other access. Where these intersect the cell is highlighted with either green, yellow, or red, to indicate whether a slot is safe to put a legendary into. The only " width="1200" height="430" />
+<img class="size-full" src="https://hrothmar.com/wp-content/uploads/2021/06/Domination-Gear-Grid.jpg" alt="A visual chart showing the 4 gear types on one axis, and each type of gear slot on the other access. Where these intersect the cell is highlighted with either green, yellow, or red, to indicate whether a slot is safe to put a legendary into. The only " width="1200" height="430" />
 
 > **Note**: Hunters should not craft a Back legendary because they will be getting <a href="https://ptr.wowhead.com/item=186439/dark-rangers-quiver?bonus=6805">a unique "quiver" from raid</a> which goes on your back, hence why Mail is marked as "shaman only" for the Back slot.
 
@@ -45,7 +45,7 @@ With a new raid tier and Mythic+ season, it means the item level of gear is chan
 
 The scaling of Mythic+ loot is also changing, which can be seen in the following graph:
 
-<img class="alignnone wp-image-1134 size-full" src="https://hrothmar.com/wp-content/uploads/2021/06/9.1-gear-ilvl-chart-1.jpg" alt="A chart shows which item level to expect depending on which difficulty of dungeon is run. The gear is different from the End of Dungeon reward vs the End of Week reward, with the End Of Week being higher reward in all circumstances. The higher the difficulty, the higher the reward." width="1200" height="500" />
+<img class="size-full" src="https://hrothmar.com/wp-content/uploads/2021/06/9.1-gear-ilvl-chart-1.jpg" alt="A chart shows which item level to expect depending on which difficulty of dungeon is run. The gear is different from the End of Dungeon reward vs the End of Week reward, with the End Of Week being higher reward in all circumstances. The higher the difficulty, the higher the reward." width="1200" height="500" />
 
 ## Additional News
 There are a few more ‘birds eye’ topics to cover, which I wanted to note for general awareness as well. These will be less impactful than the gear changes above, but still good to know about regardless.

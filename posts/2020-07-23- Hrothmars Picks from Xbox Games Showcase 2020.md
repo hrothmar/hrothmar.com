@@ -33,7 +33,7 @@ Hand-wavy, Witcher-like spell casting? Hell. Yes. Please.
 <h2>Psychonauts 2</h2>
 <a href="https://www.youtube.com/watch?v=G6SRtNZb_D4" target="_blank" rel="noopener"><em>View Trailer</em></a>
 
-Oh baby, freakin’ <em>Psychonauts 2</em> from the lovely folks at Double Fine Productions. It’s been 15 years since the launch of the first game which has gone down as one of the best platforming exploration games in my memory. <em>Psychonauts</em> is a beautiful exploration of cognitive mystery, mischief, humor, collecting, and creative platforming. There’s no specific date for release yet, but it’s still slated as “some time during 2020”. I cannot wait to get my hands a copy of this game to explore the lovely level designs and experience the great story that it’s sure to have.
+Oh baby, <em>Psychonauts 2</em> from the lovely folks at Double Fine Productions. It’s been 15 years since the launch of the first game which has gone down as one of the best platforming exploration games in my memory. <em>Psychonauts</em> is a beautiful exploration of cognitive mystery, mischief, humor, collecting, and creative platforming. There’s no specific date for release yet, but it’s still slated as “some time during 2020”. I cannot wait to get my hands a copy of this game to explore the lovely level designs and experience the great story that it’s sure to have.
 
 [aside]
 I played the first game in 2009 (it was old even back then), and even remember watching it featured on TV shows such as G4's <em>Cheat!</em>
@@ -45,7 +45,7 @@ I played the first game in 2009 (it was old even back then), and even remember w
 This is hands-down the game that I’m most excited about. Love it or hate it, <em>Fable</em> is a game that means a lot to me and will always be close to my heart having spent hundreds of hours playing it growing up. The idea that <em>Fable</em> (the fourth in the series, despite the lack of numbers) is going to be releasing on a platform that I actually own makes this even better! Full of secrets, humor, adventure, and game-impacting decisions, the <em>Fable</em> series is one that I am always welcoming of when I see new iterations. My partner, Jess, was even a big fan of the series when she was getting into games, so it’s something that I’m excited to share alongside them &lt;3
 
 [aside]
-<em>Fable</em> was one of the first games I bought with my own money, and the first game I ever "completed", cementing my interest in fantasy RPG naratives.
+<em>Fable</em> was one of the first games I bought with my own money, and the first game I ever "completed", cementing my interest in fantasy RPG narratives.
 [/aside]
 
 <h2>Halo Infinite</h2>

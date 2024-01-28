@@ -26,7 +26,7 @@ Your default choice will be to choose *Nadjia the Mistblade* as your Soulbind fo
 
 For dungeon situations you'll swap Nadjia’s final conduit path to take **Familiar Predicaments** slot instead of **Dauntless Duelist**. The rationale here is that **Familiar Predicaments** itself is not that great, but it allows you to take a second Potency conduit, which is better for dungeons.
 
-<img class="alignnone size-full wp-image-987" src="https://hrothmar.com/wp-content/uploads/2021/06/conduits.jpg" alt="A screenshot of the Nadjia the Mistblade Soulbind tree, showing how you take the right-most path for raiding, and take the left-most path for dungeon content." width="1200" height="675" />
+<img class="size-full" src="https://hrothmar.com/wp-content/uploads/2021/06/conduits.jpg" alt="A screenshot of the Nadjia the Mistblade Soulbind tree, showing how you take the right-most path for raiding, and take the left-most path for dungeon content." width="1200" height="675" />
 
 ## Conduits
 **Best Potency Conduits:** Ashen Juggernaut &gt; Crash the Ramparts

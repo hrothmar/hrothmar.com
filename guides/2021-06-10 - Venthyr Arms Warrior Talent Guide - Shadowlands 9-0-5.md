@@ -8,9 +8,9 @@ tags:
   - World of Warcraft
 ---
 
-Ok, so now that we have a taste for how Arms works, let's talk about the variations in talents we have available. Venthyr arms is very straight forwards in its builds, with two main rows which change between Raiding and Dungeons, but the playstyle doesn't alter much between them, allowing for an overall consistent rotation regardless of the content you're doing. The two main builds can be categorized as Single Target vs Multi-Target and look like this at a glance:
+Ok, so now that we have a taste for how Arms works, let's talk about the variations in talents we have available. Venthyr arms is very straight forwards in its builds, with two main rows which change between Raiding and Dungeons, but the play style doesn't alter much between them, allowing for an overall consistent rotation regardless of the content you're doing. The two main builds can be categorized as Single Target vs Multi-Target and look like this at a glance:
 
-<img class="alignnone size-full wp-image-1013" src="https://hrothmar.com/wp-content/uploads/2021/06/Venthyr-Arms-Warrior-talents-9.0.5.jpg" alt="A chart on the left shows which talents to take for raiding while a chart on the right shows which talents to choose for dungeons." width="1200" height="399" />
+<img class="size-full" src="https://hrothmar.com/wp-content/uploads/2021/06/Venthyr-Arms-Warrior-talents-9.0.5.jpg" alt="A chart on the left shows which talents to take for raiding while a chart on the right shows which talents to choose for dungeons." width="1200" height="399" />
 
 ## Tier 1 (level 15): Skullsplitter
 This row boils down to a choice of *Performance vs Ease of Use*. If you want to do the best possible damage, go with **Skullsplitter** for its on-demand Rage generation which helps ensure consistent Rage the fight. Alternatively, *Sudden Death* will randomly give us free use of **Condemn**, usable at any HP range, but is not taken by any of the top performing Venthyr Arms Warriors currently due do its inconsistent chance to occur. That said, *Sudden Death* is a completely OK option *if you want a more passive talent* and do not want to manage **Skullsplitter**.

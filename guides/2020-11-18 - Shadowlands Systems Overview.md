@@ -55,7 +55,7 @@ Second, you'll want to <a href="https://www.wowhead.com/news=319002/best-legenda
 Finally, you'll actually <a href="https://www.wowhead.com/guides/shadowlands-legendary-gear-crafting-upgrading" target="_blank" rel="noopener">craft and upgrade your Legendary</a>, which will become a cycle you'll focus on moving forwards. After you have the recipe and the materials, you'll head into Torghast and speak with the Runecarver, who will create your legendary for you. This should be a goal for all raiders to have, since it's going to be extremely beneficial for anyone who has one and make life a lot easier. Legendaries can only be upgraded to Rank 4 (max), which puts them at ilvl 235.
 
 [comment] note
-Some Legendaries can go on multiple slots. Consider placing it on an easily swappable piece, such as a Ring or Bracer (if applicable).
+Some Legendaries can go on multiple slots. Consider placing it on an easily replaceable piece, such as a Ring or Bracer (if applicable).
 [comment] note
 
 ## 4. Professions

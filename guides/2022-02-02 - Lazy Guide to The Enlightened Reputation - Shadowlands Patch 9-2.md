@@ -21,7 +21,7 @@ If you truly want to be on the cutting edge for gear, then your only goal is to 
 
 > **Note:** <a href="https://ptr.wowhead.com/item=190590/memory-of-unity" target="_blank" rel="noopener">*Memory of Unity*</a> (the Runecarver's Memory allowing you to craft your own Covenant Legendary in any slot you want, at any item level) is different from the <a href="https://ptr.wowhead.com/item=190464/cord-of-unity?bonus=6805" target="_blank" rel="noopener">*Belt of Unity*</a>, the default, low-ilvl belt that the game will reward you with as part of the campaign. **Revered with *The Enlightened* is only required for the Memory, not the Belt**.
 
-<img class="alignnone size-full wp-image-1181" src="https://hrothmar.com/wp-content/uploads/2022/02/Cypher_Research.jpg" alt="An image showing a 4-column research tree, each with associated titles and costs. The costs grow the deeper into the tree you go." width="1200" height="430" />
+<img class="size-full" src="https://hrothmar.com/wp-content/uploads/2022/02/Cypher_Research.jpg" alt="An image showing a 4-column research tree, each with associated titles and costs. The costs grow the deeper into the tree you go." width="1200" height="430" />
 
 ## Cypher Research
 There's a new research tree called Cypher Research coming which gives you omnipresent buffs, access to additional world quests and the ability to craft pets and mounts. I won't get into it too much, but the main things to know is that you can actively gain progress on multiple columns of research at the same time since they're independent of each other. For reputation gains we'll use the following order:

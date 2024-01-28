@@ -53,7 +53,7 @@ Rinse and repeat, hit trash cans on your way to the docks to begin fishing right
 
 From this point forward, I'd suggest fishing from the Mountain Lake which I found gained approximately 25% more gold per day due to Bass being worth more money than anything in the Spring Ocean with a higher catch rate. Though it should be noted that fishing from the Ocean can have its benefits such as caching Eels at night (good for if you do care about shooting for the Community Center) and there's the rare chance you can catch a look at Stardew Valley's very own *Creature From The Black Lagoon* which I was lucky enough to see myself.
 
-<img class="alignnone wp-image-110 size-full" src="http://hrothmar.com/wp-content/uploads/2019/05/sea-monster-1024x500.jpg" alt="" width="1024" height="500" />
+<img class="size-full" src="http://hrothmar.com/wp-content/uploads/2019/05/sea-monster-1024x500.jpg" alt="" width="1024" height="500" />
 
 #### Day 4
 Always be sure to purchase more bait if you need it! Fish all day and sell if you need to. At the end of the day today, I hit Fishing 5 Fishing which you want to pick up the "Fisher" skill which gives your fish 25% more value when sold, so I'd recommend not selling your fish on Day 4 and instead holding onto them in your chest until tomorrow since they'll be worth more and can be sold to Willy in his shop the following morning without any drawbacks.
