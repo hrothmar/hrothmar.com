@@ -30,7 +30,7 @@ When it comes to fishing all day, there are a few things to keep in mind that I 
 - Always have bait on hand after getting an upgraded fishing rod.
 - Be aware of when holidays occur and be prepared to avoid areas to prevent activating them (which will then end your day immediately, reload your game's save if this happens).
 
-<hr />
+***
 
 #### Day 1
 When you awake on Day 1 you'll see a small present on your floor which contains 15 free Parsnip seeds, just go ahead sell them immediately, you are not gonna need them– promise! This is the one day that we won't spend fishing, so it's a good idea to spend today getting 100 wood and build two chests, then spend rest of the time foraging for food which gives you energy. You'll be able to get a few Spring Onions from down south by the sewer entrance, but otherwise foraging is randomized across the whole map. You can also swing by the beach to see if there are items dropped for some early money.
