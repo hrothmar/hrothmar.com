@@ -33,7 +33,7 @@ The second passive to be aware of is **Seasoned Soldier** which makes our Critic
 The final passive, **Tactician**, is a subtle one, but very important to look out for. Tactician makes it so that we have a 1.4% chance per-rage spent to reset the cooldown of **Overpower**, one of our only free DPS abilities. Since **Overpower** does not cost rage, we'll want to always focus on using **Overpower** to keep it on cooldown, so that when we spend rage we have a decent chance of instantly resetting **Overpower**– allowing it to be used again. If we don't use **Overpower** often, this passive becomes useless since the Tactician reset would have no effect, equating to a dps loss.
 
 ## Arms Active Abilities
-Arms has a fair number of abilities and we won't be getting into all of them in this guide. Instead, we'll be focusing on the damaging abilities of the class to keep things simple. If you're interested in learning how to better use your defensive abilities, as well as general warrior utility spells, I'll have a<a href="https://hrothmar.com/guides/advanced-arms-warrior-tips-tricks/"> separate guide which covers that topic</a> which you can check out. That said, let's talk about how to do some damage.
+Arms has a fair number of abilities and we won't be getting into all of them in this guide. Instead, we'll be focusing on the damaging abilities of the class to keep things simple. If you're interested in learning how to better use your defensive abilities, as well as general warrior utility spells, I'll have a [separate guide which covers that topic](https://hrothmar.com/guides/advanced-arms-warrior-tips-tricks/) which you can check out. That said, let's talk about how to do some damage.
 
 I find it easiest to think about Arms DPS in three major categories:
 - DPS Cooldowns
@@ -58,7 +58,7 @@ These DPS Cooldowns have very nice timers in that they all line up with each oth
 These are the abilities we'll be using to generate our Rage, which then gets used on our heaviest hitting abilities. Your sources of rage are:
 - **Auto-attacks** generate ~25 rage for normal hits or 33 rage for critical hits (this is why we stack critical strike on our gear).
 - **Skullsplitter** (talent) gives 20 rage, making for on-demand rage generation.
-- **Charge** grants 20 rage. It is used on pull, or when you get too far away from the boss in order to get back on your target with the added benefit of giving you rage. There are some advanced techniques where you can weave your **Charge** in between auto-attacks, which you can learn more about in my <a href="https://hrothmar.com/guides/advanced-arms-warrior-tips-tricks/">advanced tips and tricks guide</a>.
+- **Charge** grants 20 rage. It is used on pull, or when you get too far away from the boss in order to get back on your target with the added benefit of giving you rage. There are some advanced techniques where you can weave your **Charge** in between auto-attacks, which you can learn more about in my [advanced tips and tricks guide](https://hrothmar.com/guides/advanced-arms-warrior-tips-tricks/).
 
 A neat thing is that your major DPS cooldowns we just spoke about, **Avatar**/**Ravager**, all generate rage for you as well.
 - **Avatar**: 20 Rage
@@ -78,4 +78,4 @@ To put it all together, you'll essentially be doing the following: "Use your maj
 [comment] note
 
 ### Continued learning:
-Head over to the <a href="https://hrothmar.com/guides/venthyr-arms-warrior-talent-guide">Builds and Talents guide</a> to configure your warrior for the type of content you're wanting to participate in.
+Head over to the [Builds and Talents guide](https://hrothmar.com/guides/venthyr-arms-warrior-talent-guide) to configure your warrior for the type of content you're wanting to participate in.

@@ -15,7 +15,7 @@ Most of my playlists end up falling into one of two categories: Mood or Time-Cap
 
 I wanted to share a few highlighted tracks from my current Spring 2020 playlist that have been buzzing around my head for the past few weeks. This season's playlist is primarily relaxing and airy feeling, which wasn't my initial goal, but it's how things ended up shaking out.
 
-Listen to this playlist over on <a href="https://open.spotify.com/playlist/3NHUU8tI7wey8hW1QZxPgD" target="_blank">Spotify</a> or over on <a href="https://youtu.be/4w508dBgO9w" target="_blank">Youtube</a>.
+Listen to this playlist over on [Spotify](https://open.spotify.com/playlist/3NHUU8tI7wey8hW1QZxPgD) or over on [Youtube](https://youtu.be/4w508dBgO9w).
 
 Current track list:
 - Amtrac - <em>Accountable</em>

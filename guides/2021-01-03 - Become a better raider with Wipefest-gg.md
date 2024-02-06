@@ -7,26 +7,25 @@ tags:
   - World of Warcraft
 ---
 
-Raw DPS capabilities can only carry you so far into raid tiers, at a certain point mechanical improvements become the determining factor of success. Traditionally, pouring over visually-dense raid logs would be the main source of information, but luckily that is no longer the case. Instead, new tools have been created to help make raid logs more digestible– and that is where <a href="https://www.wipefest.gg/" target="_blank" rel="noopener">Wipefest.gg</a> comes into play. Wipefest is a tool which helps to analyze raid logs. Wipefest creates concise reports for both groups and individuals which help to determine areas for improvement– all through a clean, shareable interface.
+Raw DPS capabilities can only carry you so far into raid tiers, at a certain point mechanical improvements become the determining factor of success. Traditionally, pouring over visually-dense raid logs would be the main source of information, but luckily that is no longer the case. Instead, new tools have been created to help make raid logs more digestible– and that is where [Wipefest.gg](https://www.wipefest.gg/) comes into play. Wipefest is a tool which helps to analyze raid logs. Wipefest creates concise reports for both groups and individuals which help to determine areas for improvement– all through a clean, shareable interface.
 
 ## Getting started with Wipefest
-To begin leveraging Wipefest, all you need is a link to the logs that you want to have analyzed, which you then paste into the <a href="https://www.wipefest.gg/" target="_blank" rel="noopener">Wipefest homepage</a> for auditing. From here, you can then select any of the individual boss kills to find more detailed information on performance of that fight.
+To begin leveraging Wipefest, all you need is a link to the logs that you want to have analyzed, which you then paste into the [Wipefest homepage](https://www.wipefest.gg/) for auditing. From here, you can then select any of the individual boss kills to find more detailed information on performance of that fight.
 
 #### Find your raid logs:
-In order to leverage the Wipefest tool, you'll first need to have a set of raid logs from your raid night. For the sake of this guide, you can use my team's raid logs from our first Normal Denathrius kill earlier this week, which can be found here: <a href="https://www.warcraftlogs.com/reports/YpLwXdrNPVaGhFqm">https://www.warcraftlogs.com/reports/YpLwXdrNPVaGhFqm</a>
+In order to leverage the Wipefest tool, you'll first need to have a set of raid logs from your raid night. For the sake of this guide, you can use my team's raid logs from our first Normal Denathrius kill earlier this week, which can be found here: [https://www.warcraftlogs.com/reports/YpLwXdrNPVaGhFqm](https://www.warcraftlogs.com/reports/YpLwXdrNPVaGhFqm)
 
 [comment] note
-<em>Need help getting logs?</em> Warcraft logs has <a href="https://www.warcraftlogs.com/help/start" target="_blank" rel="noopener">a guide on how to get started</a>.
-
-[comment] note
+*Need help getting logs?* Warcraft logs has a [guide on how to get started](https://www.warcraftlogs.com/help/start).
+[/comment]
 
 #### Run the logs through Wipefest
-On the homepage of <a href="https://www.wipefest.gg/" target="_blank" rel="noopener">Wipefest.gg</a>, you'll paste the WarcraftLogs link into the search bar at the top for processing. After submitting, you'll be presented with a screen which looks like the following screenshot. By default, only the 'kill' pulls for those fights can be audited. If you want to view non-kill attempts and their data, you'll need a premium subscription to the service, which is currently only $3/mo– something which progression guilds or guild leaders can pick up, but it's not needed for individual raiders.
+On the homepage of [Wipefest.gg](https://www.wipefest.gg/), you'll paste the WarcraftLogs link into the search bar at the top for processing. After submitting, you'll be presented with a screen which looks like the following screenshot. By default, only the 'kill' pulls for those fights can be audited. If you want to view non-kill attempts and their data, you'll need a premium subscription to the service, which is currently only $3/mo– something which progression guilds or guild leaders can pick up, but it's not needed for individual raiders.
 
 <img class="size-full" src="https://hrothmar.com/wp-content/uploads/2021/01/wipefest_overview-1200x300-1.jpg" alt="A screenshot from Wipefest showing two bosses, Shriekwing and Huntsman, as well as their number of attempts and kills." width="1200" height="300" />
 
 ### Identify areas for improvement
-To audit a single fight, select an individual kill log, such as the green-colored log from Shriekwing (labeled "<em>(6:44) 17:49</em>"). This will take you to an overview page, showing how the raid (as a whole) performed for the fight. The default view upon clicking into an individual fight will show you the "Mechanics" tab, which will encompass the 'important' mechanics for the fight, grading your team against the logs of others and giving you a score based on the team's performance. The following is a look at the default "Mechanics" tab from our Heroic Shriekwing kill:
+To audit a single fight, select an individual kill log, such as the green-colored log from Shriekwing (labeled "*(6:44) 17:49*"). This will take you to an overview page, showing how the raid (as a whole) performed for the fight. The default view upon clicking into an individual fight will show you the "Mechanics" tab, which will encompass the 'important' mechanics for the fight, grading your team against the logs of others and giving you a score based on the team's performance. The following is a look at the default "Mechanics" tab from our Heroic Shriekwing kill:
 
 [comment] note
 A score of "75" means that you performed better than 75% of other guilds that week.

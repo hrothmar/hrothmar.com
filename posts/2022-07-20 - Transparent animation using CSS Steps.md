@@ -20,7 +20,7 @@ In the above example, the animation widens an element from <code>width: 0;</code
 As you can see, step animation is quick and choppy, which is not a quality normally desired for animation, but we can leverage this choppiness to create some interesting visual illusions using very old animation techniques.
 
 <h2>Using Step Animations</h2>
-We can use the choppiness of the Steps property to our advantage by speeding up the animation length and creating the illusion of motion. You might recognize this effect from old <a href="https://en.wikipedia.org/wiki/Zoetrope" target="_blank" rel="noopener">zoetropes</a> (or any reel-based movie!). By creating a long image that contains a sequence of individual frames from an animation, we can recreate the illusion motion with the help of the <code>steps()</code> animation timing property. To do this, find the number of frames in your animation, then use the number of frames as your <code>steps()</code> value. If your animation has 13 frames, you'd enter <code>steps(13)</code>!
+We can use the choppiness of the Steps property to our advantage by speeding up the animation length and creating the illusion of motion. You might recognize this effect from old [zoetropes](https://en.wikipedia.org/wiki/Zoetrope) (or any reel-based movie!). By creating a long image that contains a sequence of individual frames from an animation, we can recreate the illusion motion with the help of the <code>steps()</code> animation timing property. To do this, find the number of frames in your animation, then use the number of frames as your <code>steps()</code> value. If your animation has 13 frames, you'd enter <code>steps(13)</code>!
 
 There is another optional value that we can to pass into the <code>steps()</code> function which affects the animation’s direction.
 <ul>
@@ -49,7 +49,7 @@ Step animation is a versatile option for bringing motion to your site or app. It
 Note: while 60 frames per second is achievable with step-based animation, it is not recommended due to increased file size
 [/aside]
 
-High frames-per-second and retina images work great for short-duration animations, such as the <a title="Twitter Heart Explosion" href="https://medium.com/@chrismabry/how-did-they-do-that-the-twitter-like-animation-2a473b658e43" target="_blank" rel="noopener">Twitter Heart Explosion</a>, but step-based animation does not scale very well into complex animations which require high resolution, or lengthy animations.
+High frames-per-second and retina images work great for short-duration animations, such as the [Twitter Heart Explosion](https://medium.com/@chrismabry/how-did-they-do-that-the-twitter-like-animation-2a473b658e43), but step-based animation does not scale very well into complex animations which require high resolution, or lengthy animations.
 
 <img src="https://miro.medium.com/max/1400/1*MTZW1G1mE7LSX1CnhTYeHA.png" />
 

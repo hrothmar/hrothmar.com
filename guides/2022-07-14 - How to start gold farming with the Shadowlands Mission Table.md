@@ -18,24 +18,24 @@ With only a few characters using their mission tables you can fuel all of your M
 <img class="size-full" src="https://hrothmar.com/wp-content/uploads/2022/07/shadowlands_choose_your_covenant.jpg" alt="A small moth-like creature hovers in the air in front of two centaur guards. All of them stand atop a raised platform with a large mystical dreamcatcher behind them in a dark room. They are illuminated by a large, glowing crystal faceted into the wall behind them." width="1200" height="430" />
 
 ## Before Unlocking the Mission Table:
-If you have not already unlocked the Mission Table, there are a few steps that can save months of work and get larger rewards earlier. The main goal is to acquire as many <a href="https://www.wowhead.com/item=186472/wisps-of-memory" target="_blank" rel="noopener">Wisps of Memory</a> items as possible. This item gives your followers a large amount of experience, which makes the mission table easier. The experience boost will bypass months of grinding and when done correctly will result in instant max-level followers.
+If you have not already unlocked the Mission Table, there are a few steps that can save months of work and get larger rewards earlier. The main goal is to acquire as many [Wisps of Memory](https://www.wowhead.com/item=186472/wisps-of-memory) items as possible. This item gives your followers a large amount of experience, which makes the mission table easier. The experience boost will bypass months of grinding and when done correctly will result in instant max-level followers.
 
 To begin, your path will look slightly different depending on whether you are level 60. The best rewards will come from starting this process on an alt character who is level 50, but this is not required. Choose the following path based on your character level:
 
 **If your character is between levels 50-59:**
 
 1. If you’re level 50, begin your Shadowlands intro until you’re in Oribos and able to choose your covenant.
-1. Acquire four <a href="https://www.wowhead.com/item=188167/broker-mark-of-distinction" target="_blank" rel="noopener">Broker Mark of Distinction</a> items from <a href="https://www.wowhead.com/npc=182864/audara" target="_blank" rel="noopener">Au’Dara</a>, the Heirloom Broker, on the second floor in Oribos.
+2. Acquire four [Broker Mark of Distinction](https://www.wowhead.com/item=188167/broker-mark-of-distinction) items from [Au’Dara](https://www.wowhead.com/npc=182864/audara), the Heirloom Broker, on the second floor in Oribos.
 	- This will cost 500 gold each (2,000g total), but this gold will be earned back within a few days.
-	- *Note: You need the “<a href="https://www.wowhead.com/achievement=15241/renowned" target="_blank" rel="noopener">Renowned</a>” achievement (reach Renown 80 on any character for any covenant) before you can buy this item. If you cannot purchase this item, I’d highly recommend stopping this guide and playing your main character until you reach Renown 80 with any covenant before continuing this guide as it will save you months of effort in the long run.*
-2. Next, speak to each of the covenant leaders in Oribos and swap between the four covenants. Each time you swap, use one of the Broker Mark of Distinctions which will then set your current covenant to Renown 60.
+	- *Note: You need the “[Renowned](https://www.wowhead.com/achievement=15241/renowned)” achievement (reach Renown 80 on any character for any covenant) before you can buy this item. If you cannot purchase this item, I’d highly recommend stopping this guide and playing your main character until you reach Renown 80 with any covenant before continuing this guide as it will save you months of effort in the long run.*
+3. Next, speak to each of the covenant leaders in Oribos and swap between the four covenants. Each time you swap, use one of the Broker Mark of Distinctions which will then set your current covenant to Renown 60.
 	- Each of these renown boosts will reward you with one Wisp of Memory and 1,000 anima per covenant, both of which will be invaluable to our mission table.
-3. Swap back to your preferred covenant, store the Wisps of Memory (do not use them), and continue leveling to 60.
+4. Swap back to your preferred covenant, store the Wisps of Memory (do not use them), and continue leveling to 60.
 	- As you level, you’ll gain additional Renown which gives you two more Wisps of Memory at Renown 67 and Renown 76. Store these additional Wisps of Memory as well, we’ll use them later.
 	- *Note: Night Fae is the easiest table and gives the most gold, so choose this covenant whenever possible.*
 
 **If your character is already level 60:**
-1. Swap between the covenants and use a <a href="https://www.wowhead.com/item=188167/broker-mark-of-distinction" target="_blank" rel="noopener">Broker Mark of Distinction</a> if you are Renown 51 or below on any of them, repeating until every covenant is Renown 52 or above (read the above section for more info).
+1. Swap between the covenants and use a [Broker Mark of Distinction](https://www.wowhead.com/item=188167/broker-mark-of-distinction) if you are Renown 51 or below on any of them, repeating until every covenant is Renown 52 or above (read the above section for more info).
 2. Store any rewarded Wisps of Memory you receive for later.
 
 <img class="size-full" src="https://hrothmar.com/wp-content/uploads/2022/07/Sanctum_Upgrades_Bastion.jpg" alt="A large blue angel figure stands in front of a wooden tent draped in cloths, set in a heavenly, bright setting made of stone and gold." width="1200" height="430" />
@@ -80,7 +80,7 @@ The most important part of the mission table sequence is to ensure that you sole
 <img class="size-full" src="https://hrothmar.com/wp-content/uploads/2022/07/Shadowlands_mission_table_TLDR_Missons_addon.jpg" alt="A cropped view of the Missions Table interface, showing a list of available missions as well as their rewards. On the right, a new panel appears from the TLDR MIssions addon which shows additional options for controlling how and when to send out missions." width="1200" height="430" />
 
 ## TLDR Missions Add-on
-The best mission table add-on on the market currently is called <a href="https://www.curseforge.com/wow/addons/tldr-missions" target="_blank" rel="noopener">TLDR Missions</a>. It replaces all add-ons you may have had previously (VenturePlan, Covenant Mission Helper, etc.) and acts as a stand-alone tool that handles everything you need to get started. This tool can be configured using a priority system, allowing you to tweak exactly which rewards you want and ignore others, which both saves on anima and gets you preferred rewards faster. Once fully configured, you will be able to send out all of your followers with a single click, then complete their missions a few hours later with a second click.
+The best mission table add-on on the market currently is called [TLDR Missions](https://www.curseforge.com/wow/addons/tldr-missions). It replaces all add-ons you may have had previously (VenturePlan, Covenant Mission Helper, etc.) and acts as a stand-alone tool that handles everything you need to get started. This tool can be configured using a priority system, allowing you to tweak exactly which rewards you want and ignore others, which both saves on anima and gets you preferred rewards faster. Once fully configured, you will be able to send out all of your followers with a single click, then complete their missions a few hours later with a second click.
 
 Which missions you choose to take are entirely up to you, but I have provided the setting used on my personal gold-making setup below. The following configuration has been designed to maximize raw gold, high-value crafting materials to be turned into other goods, and augment runes to sell on the auction house, with a secondary focus on reputation tokens to slowly build towards paragon caches (which also contain raw gold).
 
@@ -92,8 +92,8 @@ You can also earn thousands of battle pet tokens without ever doing a single bat
 
 ### TLDR Mission Configuration
 
-1. Install the “<a href="https://www.curseforge.com/wow/addons/tldr-missions" target="_blank" rel="noopener">TLDR Missions</a>” add-on
-1. Configure the TLDR Missions settings
+1. Install the “[TLDR Missions](https://www.curseforge.com/wow/addons/tldr-missions)” add-on
+2. Configure the TLDR Missions settings
 	- Visit the Mission Table and click on the red “TLDR Missions” button which appears in the top-left of the Mission Table window.</li>
 	- Under the “Advanced” tab at the bottom of the TLDR Missions interface, check the bottom-most option: “Immediately start missions once calculated”</li>
 	- Edit the TLDR Missions settings by clicking into the empty checkboxes to assign different mission categories a priority. Click on an item once to give it a priority, twice to turn it into a red X (never take), and a third time to reset the priority. This is the priority system that I use:
@@ -101,17 +101,17 @@ You can also earn thousands of battle pet tokens without ever doing a single bat
 		2. Anima
 		3. (Optional) Augment Runes
 			- The price of Augment Runes varies heavily from server to server and as we approach the end of this expansion the price of these will likely reduce substantially. I have stopped taking these, personally, but if you want them for personal use, or if your server has a decent price/sell rate you can still take this.
-		5. Crafting Materials
+		4. Crafting Materials
 			- Using the dropdown menu to the right of Crafting Materials, uncheck all Common and Uncommon options, solely keeping the Rare rewards. You can also uncheck all of the Zereth Mortis rewards entirely. This saves you a lot of anima and nets you the highest rewards.
-		6. (Optional) Reputation Tokens
+		5. (Optional) Reputation Tokens
 			- This is only good for characters who are near Exalted with various reputations already. There are only a few months left in the expansion and it will not be enough time to reach Paragon status if you choose this option on a fresh character.
-		7. Equipment
+		6. Equipment
 			- Can be sold for raw vendor gold, or for even more profit you can take the Enchanting profession on your character, then Disenchant any equipment drops for valuable enchanting materials to sell or craft with.
-		8. Campaign Mission Progress
+		7. Campaign Mission Progress
 			- You want to progress until roughly Campaign Mission 10-ish, at which point you’ll begin getting an increased amount of missions, after which you can uncheck this option.
-		9.  (Optional) Follower XP Items
+		8.  (Optional) Follower XP Items
 			- Only take this option if your three main Soulbinds are close to level 60 and need a quick bump, or if you want to funnel XP items to alts for their tables.
-		10. Then, send followers to fail for XP
+		9.  Then, send followers to fail for XP
 
 ### TLDR Mission usage
 Once configured, you can then begin sending out your followers on their missions using the add-on finally! To start missions, you'll want to use the following steps:

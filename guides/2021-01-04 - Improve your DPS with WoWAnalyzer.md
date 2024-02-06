@@ -7,10 +7,10 @@ tags:
   - World of Warcraft
 ---
 
-Being able to fulfill your role as a DPS means that you should always be looking for improvements to your damage. Whether you're a chart-topping player, or someone who is looking to greatly improve, using tools to help analyze your performance is a helpful and healthy choice to ensure that you're able to perform to the best of your abilities. One such tool is <a href="https://wowanalyzer.com/" target="_blank" rel="noopener">WoWAnalyzer.com</a>, an online analysis site which helps to identify opportunities within your rotation, prioritization, and resource management to provide you with actionable feedback to improve your performance.
+Being able to fulfill your role as a DPS means that you should always be looking for improvements to your damage. Whether you're a chart-topping player, or someone who is looking to greatly improve, using tools to help analyze your performance is a helpful and healthy choice to ensure that you're able to perform to the best of your abilities. One such tool is [WoWAnalyzer.com](https://wowanalyzer.com/), an online analysis site which helps to identify opportunities within your rotation, prioritization, and resource management to provide you with actionable feedback to improve your performance.
 
 ## Getting Started with WoWAnalyzer
-To begin auditing your performance, head over to the <a href="https://wowanalyzer.com/" target="_blank" rel="noopener">WoWAnalyzer homepage</a> where you'll be able to choose one of three options for finding your character.
+To begin auditing your performance, head over to the [WoWAnalyzer homepage](https://wowanalyzer.com/) where you'll be able to choose one of three options for finding your character.
 
 - Enter a link to any WarcraftLogs report
 - Search for your character via Realm/Name
@@ -21,11 +21,11 @@ All options will search based off of public-facing WarcraftLogs entries, so it's
 <img class="size-full" src="https://hrothmar.com/wp-content/uploads/2021/01/wow_analyzer_toon_selection.jpeg" alt="A screenshot from WoWAnalyzer showing headshots of each member of the raid within the logs. They are color-coded by role and lined up like a series of baseball cards." width="1200" height="300" />
 
 ## Find the character you want to audit
-In order to use the WoWAnalyzer tool, you'll first need to have a set of raid logs from your raid night. Even if you choose to use the "character search" feature, this will ultimately pull from WarcraftLogs, so be sure to have at least one public facing set of logs before beginning. For the sake of this guide, you can use my team's raid logs from our first Normal clear earlier this week, which can be found here: <a href="https://www.warcraftlogs.com/reports/YpLwXdrNPVaGhFqm">https://www.warcraftlogs.com/reports/YpLwXdrNPVaGhFqm</a>
+In order to use the WoWAnalyzer tool, you'll first need to have a set of raid logs from your raid night. Even if you choose to use the "character search" feature, this will ultimately pull from WarcraftLogs, so be sure to have at least one public facing set of logs before beginning. For the sake of this guide, you can use my team's raid logs from our first Normal clear earlier this week, which can be found here: [https://www.warcraftlogs.com/reports/YpLwXdrNPVaGhFqm](https://www.warcraftlogs.com/reports/YpLwXdrNPVaGhFqm)
 
-[comment] note
-*Need help getting logs?* Warcraft logs has <a href="https://www.warcraftlogs.com/help/start" target="_blank" rel="noopener">a guide on how to get started</a>.
-[comment] note
+[comment]
+*Need help getting logs?* Warcraft logs has [a guide on how to get started](https://www.warcraftlogs.com/help/start).
+[/comment]
 
 Once you've run the tool, you'll be shown a screen of all bosses you were in combat with for that raid night. For this example, we'll be viewing the information from the boss named Sludgefist, which is a great fight to audit due to its minimal mechanics and static timing. Once a fight has been selected, you can then choose an individual character from within the raid to audit in more detail, such as my character, Hrothguard.
 

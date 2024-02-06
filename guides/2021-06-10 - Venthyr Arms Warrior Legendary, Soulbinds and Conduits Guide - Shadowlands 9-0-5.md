@@ -9,7 +9,7 @@ tags:
 ---
 
 ## Legendary Gear
-**Runecarving Memory:** <a href="https://www.wowhead.com/item=183381/memory-of-the-tormented-kings">Signet of Tormented Kings</a>
+**Runecarving Memory:** [Signet of Tormented Kings](https://www.wowhead.com/item=183381/memory-of-the-tormented-kings)
 **Gear Slot:** Ideally on a Ring, but Wrists is option as well
 **Ideal Stats:** Critical Strike + Haste
 
@@ -38,4 +38,4 @@ As for conduits, you'll want to ensure you always take **Ashen Juggernaut** as y
 *If you do not have access to all of these conduits or conduit-slots yet, be sure to leverage tools like Raidbots.com to see what is best for you with your current options.*
 
 ### Putting it all together
-Now that we've covered the abilities, cooldowns, talents, and our legendary power it's time to combine all of this knowledge together in the <a href="https://hrothmar.com/guides/venthyr-arms-warrior-rotation-guide">Rotation guide</a> which will allow us to pull the best damage possible in all content.
+Now that we've covered the abilities, cooldowns, talents, and our legendary power it's time to combine all of this knowledge together in the [Rotation guide](https://hrothmar.com/guides/venthyr-arms-warrior-rotation-guide) which will allow us to pull the best damage possible in all content.
