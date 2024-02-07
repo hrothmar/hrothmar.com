@@ -52,9 +52,9 @@ High frames-per-second and retina images work great for short-duration animation
 
 <img src="https://miro.medium.com/max/1400/1*MTZW1G1mE7LSX1CnhTYeHA.png" />
 
-<h3>When not to use CSS Steps</h3>
+### When not to use CSS Steps
 If you need large or complex animations, be warned that while step animation is a viable option, you might want to also explore other implementations to make sure you’re getting the most performant method. Other options include non-step CSS animation, SVG animation, embedded video, and HTML canvas.
-<h3>CSS Steps in the wild</h3>
+### CSS Steps in the wild
 The best use of a CSS step animation I’ve seen has come from Blizzard Entertainment’s promotional World of Warcraft: Legion website (*note: no longer publicly visible*)*.* A section of the site illustrates an in-game character holding a weapon at their side while lightly swaying back and forth. The animation is three seconds long and consists of 54 frames. The fascinating part of the animation is that it is powered by a 14,000px by 300px `.png` file that only weighs 846kb. By all means, this is a large file, but the quality of animation combined with *mobile auto-playing and transparency support* is astonishing.
 
 When the source image is viewed in its entirety, without CSS step animations, the entire "film strip" of the image seems like quite an odd approach when it comes to designing animation for the web. The source image is extremely wide with no way of seeing the animation with your eyes, unassisted. The image also seems quite daunting to create from a production perspective since updating the image would require replacing animation frames in the correct location with the correct spacing. You can see the image in its raw form below:
