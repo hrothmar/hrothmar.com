@@ -26,7 +26,7 @@ If you truly want to be on the cutting edge for gear, then your only goal is to 
 ## Cypher Research
 There's a new research tree called Cypher Research coming which gives you omnipresent buffs, access to additional world quests and the ability to craft pets and mounts. I won't get into it too much, but the main things to know is that you can actively gain progress on multiple columns of research at the same time since they're independent of each other. For reputation gains we'll use the following order:
 
-> **Metrial** &gt; **Aelic** &gt; **Cachial** (under Metrial) &gt; **Altonian** (under Aelic)
+> **Metrial** > **Aelic** > **Cachial** (under Metrial) > **Altonian** (under Aelic)
 
 This order will give you access to one additional World Quest and Daily Quest every day, which are small reputation increases but do add up over time.  As a reminder, you can also continue to progress Daelic and Trebalim columns' research independent of the reputation-focused path, so just keep research rolling at all times and you'll be fine.
 

@@ -18,11 +18,11 @@ I wanted to share a few highlighted tracks from my current Spring 2020 playlist 
 Listen to this playlist over on [Spotify](https://open.spotify.com/playlist/3NHUU8tI7wey8hW1QZxPgD) or over on [Youtube](https://youtu.be/4w508dBgO9w).
 
 Current track list:
-- Amtrac - <em>Accountable</em>
-- Space Invadas - <em>Welcome (feat. Natalie Slade)</em>
-- Popular Computer - <em>Euro Kiss (Outro)</em>
-- Ross From Friends - <em>Talk To Me You'll Understand</em>
-- Lou Hayter - <em>Cherry On Top</em>
-- KiNK - <em>Leko (Session Victim Remix)</em>
-- HNNY -<em> Most Really Pretty Girls Have Pretty Ugly Feet</em>
-- B77 - <em>Mo Sun</em>
+- Amtrac - *Accountable*
+- Space Invadas - *Welcome (feat. Natalie Slade)*
+- Popular Computer - *Euro Kiss (Outro)*
+- Ross From Friends - *Talk To Me You'll Understand*
+- Lou Hayter - *Cherry On Top*
+- KiNK - *Leko (Session Victim Remix)*
+- HNNY -* Most Really Pretty Girls Have Pretty Ugly Feet*
+- B77 - *Mo Sun*

@@ -33,7 +33,7 @@ A score of "75" means that you performed better than 75% of other guilds that we
 
 <img class="size-full" src="https://hrothmar.com/wp-content/uploads/2021/01/wipefest_example-1200x300-1.jpg" alt="Screenshot of Wipefest.GG's site, showing the score breakdown of a fight's report." width="1200" height="300" />
 
-Each of these sections can be expanded into a drop-down window in order to view additional information about that mechanic. For example, if we click into "<em>Failed to dodge rings from Echoing Screech</em>", we can see a breakdown list of who got hit by that mechanic, when it occurred, and how much damage was sustained from those hiccups. This makes it a great tool to determine areas of improvement and where your raid should be focusing its attention.
+Each of these sections can be expanded into a drop-down window in order to view additional information about that mechanic. For example, if we click into "*Failed to dodge rings from Echoing Screech*", we can see a breakdown list of who got hit by that mechanic, when it occurred, and how much damage was sustained from those hiccups. This makes it a great tool to determine areas of improvement and where your raid should be focusing its attention.
 
 <img class="size-full" src="https://hrothmar.com/wp-content/uploads/2021/01/wipefest_audit-1200x300-1.jpg" alt="A breakdown of WipefestGG's report of Heroic Shriekwing, showing who got hit by Echoing Shriek and when it ocurred" width="1200" height="300" />
 
